@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2035
 permalink: /opinii/libertatea-presei-in-moldova/
-image: /wp-content/uploads/2014/07/cenzura.png
+image: /costestitv/wp-content/uploads//2014/07/cenzura.png
 categories:
   - Opinii
 ---

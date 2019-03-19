@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2280
 permalink: /stiri/ucraina-a-interzis-difuzarea-a-15-canale-rusesti/
-image: /wp-content/uploads/2014/09/posturile-de-televiziune-ruse-excluse-din-grilele-operatorilor-de-cablu-din-kiev-1394620369.jpg
+image: /costestitv/wp-content/uploads//2014/09/posturile-de-televiziune-ruse-excluse-din-grilele-operatorilor-de-cablu-din-kiev-1394620369.jpg
 categories:
   - Externe
   - Știri

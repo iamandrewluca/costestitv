@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3164
 permalink: /stiri/sport/voleibalistii-din-raion-pentru-cupa-presedintelui/
-image: /wp-content/uploads/2014/11/phpThumb_generated_thumbnailjpg2.jpg
+image: /costestitv/wp-content/uploads//2014/11/phpThumb_generated_thumbnailjpg2.jpg
 categories:
   - Politică
   - Sport

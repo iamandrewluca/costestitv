@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3129
 permalink: /stiri/semnarea-proiectului-pentru-constructia-sistemului-de-canalizare-video/
-image: /wp-content/uploads/2014/11/Tudor.avi.Still058.jpg
+image: /costestitv/wp-content/uploads//2014/11/Tudor.avi.Still058.jpg
 categories:
   - Social
   - Știri

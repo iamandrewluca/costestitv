@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2420
 permalink: /stiri/solidaritate-intre-generatii-la-manastirea-curchi-si-complexul-etno-cultural-vatra/
-image: /wp-content/uploads/2014/09/7-6c2d4f9857.jpg
+image: /costestitv/wp-content/uploads//2014/09/7-6c2d4f9857.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3137
 permalink: /stiri/4-masini-noi-si-pentru-politia-de-la-ialoveni/
-image: /wp-content/uploads/2014/11/phpThumb_generated_thumbnailjpg1.jpg
+image: /costestitv/wp-content/uploads//2014/11/phpThumb_generated_thumbnailjpg1.jpg
 categories:
   - Social
   - Știri

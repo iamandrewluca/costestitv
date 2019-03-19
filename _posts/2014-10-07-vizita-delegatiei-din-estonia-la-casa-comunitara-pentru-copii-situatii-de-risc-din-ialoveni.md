@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2531
 permalink: /stiri/vizita-delegatiei-din-estonia-la-casa-comunitara-pentru-copii-situatii-de-risc-din-ialoveni/
-image: /wp-content/uploads/2014/10/7102014_4.jpg
+image: /costestitv/wp-content/uploads//2014/10/7102014_4.jpg
 categories:
   - Social
   - Știri

@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1312
 permalink: /carti-online/victor-suvorov-ultima-republica/
 original_post_id:
   - "1312"
-image: /wp-content/uploads/2013/02/ultimarepublica.jpg
+image: /costestitv/wp-content/uploads//2013/02/ultimarepublica.jpg
 categories:
   - Cărți
 ---

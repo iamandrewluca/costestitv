@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2859
 permalink: /stiri/vizita-electorala-presedintelui-partidului-renasterea-la-costesti-video/
-image: /wp-content/uploads/2014/10/DSC_0339.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0339.jpg
 categories:
   - Electorala 2014
   - Politică

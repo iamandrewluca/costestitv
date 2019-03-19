@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2946
 permalink: /stiri/siguranta-copiilor-noul-scolar-tema-de-discutie-cu-elevii-din-razeni/
-image: /wp-content/uploads/2014/10/admin-ajax1.jpeg
+image: /costestitv/wp-content/uploads//2014/10/admin-ajax1.jpeg
 categories:
   - Social
   - Știri

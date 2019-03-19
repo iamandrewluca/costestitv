@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2954
 permalink: /stiri/concursul-raional-cel-mai-bun-vin-de-casa/
-image: /wp-content/uploads/2014/10/826850941771403960696297-1-590_440.jpg
+image: /costestitv/wp-content/uploads//2014/10/826850941771403960696297-1-590_440.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2528
 permalink: /stiri/fondul-pentru-tineri-ialoveni-solutia-investitiilor-inteligente/
-image: /wp-content/uploads/2014/10/06102014.jpg
+image: /costestitv/wp-content/uploads//2014/10/06102014.jpg
 categories:
   - Social
   - Știri

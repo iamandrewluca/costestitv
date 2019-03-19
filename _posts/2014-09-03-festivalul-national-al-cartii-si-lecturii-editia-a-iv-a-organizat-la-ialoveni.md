@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2204
 permalink: /stiri/festivalul-national-al-cartii-si-lecturii-editia-a-iv-a-organizat-la-ialoveni/
-image: /wp-content/uploads/2014/09/31082014_9.jpg
+image: /costestitv/wp-content/uploads//2014/09/31082014_9.jpg
 categories:
   - Cultură
   - Social

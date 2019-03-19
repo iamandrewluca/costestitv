@@ -12,7 +12,7 @@ categories:
   - Social
   - Știri
 ---
-[<img alt="politie_rutiera_gardianul_md_0" class="alignleft size-full wp-image-1037" src="http://costesti.tv/wp-content/uploads/2013/07/politie_rutiera_gardianul_md_0.jpg" style="opacity:.9;width:390px;height:231px;" />](http://costesti.tv/wp-content/uploads/2013/07/politie_rutiera_gardianul_md_0.jpg) 
+[<img alt="politie_rutiera_gardianul_md_0" class="alignleft size-full wp-image-1037" src="http://costesti.tv/costestitv/wp-content/uploads//2013/07/politie_rutiera_gardianul_md_0.jpg" style="opacity:.9;width:390px;height:231px;" />](http://costesti.tv/costestitv/wp-content/uploads//2013/07/politie_rutiera_gardianul_md_0.jpg) 
 
 Modificările operate &icirc;n Regulamentul Circulației Rutiere au intrat deja &icirc;n vigoare. Acestea au fost publicate &icirc;n Monitorul Oficial al Republicii Moldova pe 12 iulie, &icirc;n urma Hotăr&acirc;rii de Guvern adoptată pe 8 iulie, notează UNIMEDIA.&nbsp; 
 

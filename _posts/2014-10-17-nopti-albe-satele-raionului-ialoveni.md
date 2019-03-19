@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2673
 permalink: /stiri/nopti-albe-satele-raionului-ialoveni/
-image: /wp-content/uploads/2014/10/operatiunile-nopti-albe-si-zero-grade-continua-in-ultimele-24-ore-49-soferi-suspectati-de-consumul-alcoolului-1361629740.jpg
+image: /costestitv/wp-content/uploads//2014/10/operatiunile-nopti-albe-si-zero-grade-continua-in-ultimele-24-ore-49-soferi-suspectati-de-consumul-alcoolului-1361629740.jpg
 categories:
   - Social
   - Știri

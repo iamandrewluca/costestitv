@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2010
 permalink: /stiri/ecologie-si-folclor-un-festival-folcloric-al-raului-botna-a-avut-loc-la-costesti/
-image: /wp-content/uploads/2014/07/IMG_5523.jpg
+image: /costestitv/wp-content/uploads//2014/07/IMG_5523.jpg
 categories:
   - Știri
 ---

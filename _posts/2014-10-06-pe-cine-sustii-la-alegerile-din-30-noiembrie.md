@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2525
 permalink: /stiri/pe-cine-sustii-la-alegerile-din-30-noiembrie/
-image: /wp-content/uploads/2014/10/studiu_anm_md.jpg
+image: /costestitv/wp-content/uploads//2014/10/studiu_anm_md.jpg
 categories:
   - Politică
   - Știri

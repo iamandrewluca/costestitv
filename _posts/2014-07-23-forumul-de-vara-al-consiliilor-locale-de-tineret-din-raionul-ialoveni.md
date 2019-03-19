@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2046
 permalink: /stiri/forumul-de-vara-al-consiliilor-locale-de-tineret-din-raionul-ialoveni/
-image: /wp-content/uploads/2014/07/10481430_683278528404108_2096136999247589940_n1.jpg
+image: /costestitv/wp-content/uploads//2014/07/10481430_683278528404108_2096136999247589940_n1.jpg
 categories:
   - Știri
 ---

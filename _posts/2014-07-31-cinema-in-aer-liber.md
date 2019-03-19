@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2096
 permalink: /stiri/cinema-in-aer-liber/
-image: /wp-content/uploads/2014/07/Cinema-in-aer-liber1.jpg
+image: /costestitv/wp-content/uploads//2014/07/Cinema-in-aer-liber1.jpg
 categories:
   - Divertisment
   - Știri

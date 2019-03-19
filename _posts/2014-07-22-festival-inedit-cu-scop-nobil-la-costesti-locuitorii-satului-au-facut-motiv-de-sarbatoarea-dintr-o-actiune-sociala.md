@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2013
 permalink: /stiri/festival-inedit-cu-scop-nobil-la-costesti-locuitorii-satului-au-facut-motiv-de-sarbatoarea-dintr-o-actiune-sociala/
-image: /wp-content/uploads/2014/07/IMG_5537.jpg
+image: /costestitv/wp-content/uploads//2014/07/IMG_5537.jpg
 categories:
   - Cultură
   - Știri

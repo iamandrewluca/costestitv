@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2271
 permalink: /stiri/la-11-septembrie-va-avea-loc-sedinta-ordinara-a-consiliului-raional-ialoveni/
-image: /wp-content/uploads/2014/09/download.jpg
+image: /costestitv/wp-content/uploads//2014/09/download.jpg
 categories:
   - Social
   - Știri

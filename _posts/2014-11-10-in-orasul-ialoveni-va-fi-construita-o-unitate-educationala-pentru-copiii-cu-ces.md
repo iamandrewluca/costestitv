@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3111
 permalink: /stiri/in-orasul-ialoveni-va-fi-construita-o-unitate-educationala-pentru-copiii-cu-ces/
-image: /wp-content/uploads/2014/11/07112014.jpg
+image: /costestitv/wp-content/uploads//2014/11/07112014.jpg
 categories:
   - Social
   - Știri

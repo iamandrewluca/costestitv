@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3557
 permalink: /stiri/fondul-pentru-tineri-ialoveni-sustine-proiectele-complementare/
-image: /wp-content/uploads/2015/04/03042015_1.jpg
+image: /costestitv/wp-content/uploads//2015/04/03042015_1.jpg
 categories:
   - Social
   - Știri

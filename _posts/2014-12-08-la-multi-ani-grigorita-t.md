@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3234
 permalink: /stiri/sport/la-multi-ani-grigorita-t/
-image: /wp-content/uploads/2014/12/10836448_741509612593780_1139117953_n.jpg
+image: /costestitv/wp-content/uploads//2014/12/10836448_741509612593780_1139117953_n.jpg
 categories:
   - Social
   - Sport

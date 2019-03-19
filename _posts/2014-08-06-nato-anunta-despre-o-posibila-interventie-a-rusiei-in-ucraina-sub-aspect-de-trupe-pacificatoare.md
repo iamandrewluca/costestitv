@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2120
 permalink: /stiri/nato-anunta-despre-o-posibila-interventie-a-rusiei-in-ucraina-sub-aspect-de-trupe-pacificatoare/
-image: /wp-content/uploads/2014/08/uXhEY1w.jpg
+image: /costestitv/wp-content/uploads//2014/08/uXhEY1w.jpg
 categories:
   - Externe
   - Știri

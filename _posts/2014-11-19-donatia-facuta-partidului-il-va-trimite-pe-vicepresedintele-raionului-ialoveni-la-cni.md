@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3161
 permalink: /stiri/donatia-facuta-partidului-il-va-trimite-pe-vicepresedintele-raionului-ialoveni-la-cni/
-image: /wp-content/uploads/2014/11/img_8703.jpg
+image: /costestitv/wp-content/uploads//2014/11/img_8703.jpg
 categories:
   - Politică
   - Știri

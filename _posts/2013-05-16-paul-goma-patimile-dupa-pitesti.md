@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1321
 permalink: /carti-online/paul-goma-patimile-dupa-pitesti/
 original_post_id:
   - "1321"
-image: /wp-content/uploads/2013/05/orig_patimile-dupa-pitesti-973-35-0845-4.jpg
+image: /costestitv/wp-content/uploads//2013/05/orig_patimile-dupa-pitesti-973-35-0845-4.jpg
 categories:
   - Cărți
 ---

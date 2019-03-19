@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1301
 permalink: /carti-online/v-suvorov-spargatorul-de-gheata/
 original_post_id:
   - "1301"
-image: /wp-content/uploads/2013/02/spargatorul-de-ghiata.jpeg
+image: /costestitv/wp-content/uploads//2013/02/spargatorul-de-ghiata.jpeg
 categories:
   - Cărți
 ---

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2488
 permalink: /stiri/primii-candidati-pe-buletinele-de-vot/
-image: /wp-content/uploads/2014/10/media_141234396860543700.jpg
+image: /costestitv/wp-content/uploads//2014/10/media_141234396860543700.jpg
 categories:
   - Politică
   - Știri

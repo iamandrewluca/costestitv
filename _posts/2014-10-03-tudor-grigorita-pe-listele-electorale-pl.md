@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2494
 permalink: /stiri/tudor-grigorita-pe-listele-electorale-pl/
-image: /wp-content/uploads/2014/10/10361526_1522930607930327_8794472950410401890_n.jpg
+image: /costestitv/wp-content/uploads//2014/10/10361526_1522930607930327_8794472950410401890_n.jpg
 categories:
   - Politică
   - Știri

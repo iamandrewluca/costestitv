@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2449
 permalink: /stiri/lilian-popescu-participat-la-cea-de-doua-editie-forumului-invest-iasi/
-image: /wp-content/uploads/2014/09/2225092014_1.jpg
+image: /costestitv/wp-content/uploads//2014/09/2225092014_1.jpg
 categories:
   - Social
   - Știri

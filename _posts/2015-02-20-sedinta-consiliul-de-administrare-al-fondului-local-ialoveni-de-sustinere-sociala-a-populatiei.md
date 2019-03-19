@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3415
 permalink: /stiri/sedinta-consiliul-de-administrare-al-fondului-local-ialoveni-de-sustinere-sociala-a-populatiei/
-image: /wp-content/uploads/2015/02/19022015.jpg
+image: /costestitv/wp-content/uploads//2015/02/19022015.jpg
 categories:
   - Social
   - Știri

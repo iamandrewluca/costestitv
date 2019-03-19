@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2213
 permalink: /stiri/tricolorul-unitatii-nationale/
-image: /wp-content/uploads/2014/09/marsul-tricolorului-tinerii-moldovei.jpg
+image: /costestitv/wp-content/uploads//2014/09/marsul-tricolorului-tinerii-moldovei.jpg
 categories:
   - Social
   - Știri
@@ -16,7 +16,7 @@ categories:
 </p>
 
 <p style="color: #6b6b6b;">
-  <a style="color: #000000;" href="http://tinerii.md/wp-content/uploads/2014/08/lunile-tricolorului.png" target="_self"><img class="aligncenter size-full wp-image-2617" src="http://tinerii.md/wp-content/uploads/2014/08/lunile-tricolorului.png" alt="lunile-tricolorului" width="480" height="190" /></a>
+  <a style="color: #000000;" href="http://tinerii.md/costestitv/wp-content/uploads//2014/08/lunile-tricolorului.png" target="_self"><img class="aligncenter size-full wp-image-2617" src="http://tinerii.md/costestitv/wp-content/uploads//2014/08/lunile-tricolorului.png" alt="lunile-tricolorului" width="480" height="190" /></a>
 </p>
 
 <p style="color: #6b6b6b;">

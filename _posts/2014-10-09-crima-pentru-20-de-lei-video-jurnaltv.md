@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2554
 permalink: /stiri/crima-pentru-20-de-lei-video-jurnaltv/
-image: /wp-content/uploads/2014/10/crima-oribila-la-constanta-femeie-omorata-decapitata-cu-bratele-taiate-si-eviscerata-ce-le-a-declarat-asasinul-politistilor-18447719.jpg
+image: /costestitv/wp-content/uploads//2014/10/crima-oribila-la-constanta-femeie-omorata-decapitata-cu-bratele-taiate-si-eviscerata-ce-le-a-declarat-asasinul-politistilor-18447719.jpg
 categories:
   - Social
   - Știri

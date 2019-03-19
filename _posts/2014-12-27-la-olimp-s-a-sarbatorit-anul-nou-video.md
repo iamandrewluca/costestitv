@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3289
 permalink: /stiri/la-olimp-s-a-sarbatorit-anul-nou-video/
-image: /wp-content/uploads/2014/12/olimp.png
+image: /costestitv/wp-content/uploads//2014/12/olimp.png
 categories:
   - Cultură
   - Social

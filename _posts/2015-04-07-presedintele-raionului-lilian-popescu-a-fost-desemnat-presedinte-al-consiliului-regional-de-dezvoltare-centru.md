@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3550
 permalink: /stiri/presedintele-raionului-lilian-popescu-a-fost-desemnat-presedinte-al-consiliului-regional-de-dezvoltare-centru/
-image: /wp-content/uploads/2015/04/31032015_3.jpg
+image: /costestitv/wp-content/uploads//2015/04/31032015_3.jpg
 categories:
   - Social
   - Știri

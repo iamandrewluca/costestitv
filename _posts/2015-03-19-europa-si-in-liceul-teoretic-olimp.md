@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3487
 permalink: /stiri/europa-si-in-liceul-teoretic-olimp/
-image: /wp-content/uploads/2015/03/11064147_800165153394892_716719916_o.jpg
+image: /costestitv/wp-content/uploads//2015/03/11064147_800165153394892_716719916_o.jpg
 categories:
   - Social
   - Știri

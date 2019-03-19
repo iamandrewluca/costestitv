@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2039
 permalink: /stiri/cat-costa-sa-deschizi-o-afacere-cu-piscina-in-moldova-exemplul-localitatii-costesti/
-image: /wp-content/uploads/2014/07/cat-costa-sa-ti-deschizi-o-afacere-cu-piscina-in-moldova-exemplul-localitatii-costesti-1405501480.jpg
+image: /costestitv/wp-content/uploads//2014/07/cat-costa-sa-ti-deschizi-o-afacere-cu-piscina-in-moldova-exemplul-localitatii-costesti-1405501480.jpg
 categories:
   - Social
   - Știri

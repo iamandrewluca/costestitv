@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2464
 permalink: /stiri/cristina-rotari-dragulemeleagulefrumosul-meu-costesti/
-image: /wp-content/uploads/2014/10/1546214_225421250989377_7401568691050788751_n.jpg
+image: /costestitv/wp-content/uploads//2014/10/1546214_225421250989377_7401568691050788751_n.jpg
 categories:
   - Social
   - Știri

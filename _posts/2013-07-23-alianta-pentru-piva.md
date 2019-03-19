@@ -6,7 +6,7 @@ author: Ştefan Grigoriţa
 layout: post
 guid: http://costestitv.info/?p=2051
 permalink: /opinii/alianta-pentru-piva/
-image: /wp-content/uploads/2014/07/img_1285601_thumbs_600x440_1189251.jpg
+image: /costestitv/wp-content/uploads//2014/07/img_1285601_thumbs_600x440_1189251.jpg
 categories:
   - Opinii
 ---

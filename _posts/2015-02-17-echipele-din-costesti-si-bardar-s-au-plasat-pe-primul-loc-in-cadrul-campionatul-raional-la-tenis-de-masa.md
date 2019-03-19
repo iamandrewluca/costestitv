@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3402
 permalink: /stiri/sport/echipele-din-costesti-si-bardar-s-au-plasat-pe-primul-loc-in-cadrul-campionatul-raional-la-tenis-de-masa/
-image: /wp-content/uploads/2015/02/14022015_T_1.jpg
+image: /costestitv/wp-content/uploads//2015/02/14022015_T_1.jpg
 categories:
   - Sport
   - Știri

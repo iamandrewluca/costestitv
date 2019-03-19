@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2677
 permalink: /stiri/mereacre-actuala-guvernare-s-compromis-si-spus-minciuni/
-image: /wp-content/uploads/2014/10/video-mereacre-razboaile-intre-filat-si-plahotniuc-au-afectat-si-relatia-cu-societatea-civila-1413472159.jpg
+image: /costestitv/wp-content/uploads//2014/10/video-mereacre-razboaile-intre-filat-si-plahotniuc-au-afectat-si-relatia-cu-societatea-civila-1413472159.jpg
 categories:
   - Politică
   - Social

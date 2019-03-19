@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3302
 permalink: /stiri/conditiile-unei-bune-calitati-de-viata-pentru-copiii-cu-disabilitati/
-image: /wp-content/uploads/2015/01/19212014EM_1.jpg
+image: /costestitv/wp-content/uploads//2015/01/19212014EM_1.jpg
 categories:
   - Social
   - Știri

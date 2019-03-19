@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2115
 permalink: /stiri/film-in-aer-liber/
-image: /wp-content/uploads/2014/08/10594409_1547993782088105_166538105_o.jpg
+image: /costestitv/wp-content/uploads//2014/08/10594409_1547993782088105_166538105_o.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2560
 permalink: /stiri/consiliul-regional-pentru-dezvoltare-centru-s-intrunit-cea-de-treia-sedinta-din-acest/
-image: /wp-content/uploads/2014/10/9102014.jpg
+image: /costestitv/wp-content/uploads//2014/10/9102014.jpg
 categories:
   - Social
   - Știri

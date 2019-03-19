@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3327
 permalink: /stiri/delegatie-de-la-bacau-la-biblioteca-din-sat/
-image: /wp-content/uploads/2015/01/DSC_0906.jpg
+image: /costestitv/wp-content/uploads//2015/01/DSC_0906.jpg
 categories:
   - Social
   - Știri

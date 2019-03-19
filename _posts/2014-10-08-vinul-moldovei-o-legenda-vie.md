@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2542
 permalink: /stiri/vinul-moldovei-o-legenda-vie/
-image: /wp-content/uploads/2014/10/ZIUA_VINULUI_2014_6.jpg
+image: /costestitv/wp-content/uploads//2014/10/ZIUA_VINULUI_2014_6.jpg
 categories:
   - Social
   - Știri

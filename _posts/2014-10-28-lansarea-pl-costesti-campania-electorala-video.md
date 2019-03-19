@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2873
 permalink: /stiri/lansarea-pl-costesti-campania-electorala-video/
-image: /wp-content/uploads/2014/10/DSC_0422.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0422.jpg
 categories:
   - Electorala 2014
   - Politică

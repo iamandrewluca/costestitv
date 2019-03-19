@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3258
 permalink: /stiri/haiducii-de-la-costesti-la-trm/
-image: /wp-content/uploads/2014/12/DSC_0134.jpg
+image: /costestitv/wp-content/uploads//2014/12/DSC_0134.jpg
 categories:
   - Cultură
   - Știri

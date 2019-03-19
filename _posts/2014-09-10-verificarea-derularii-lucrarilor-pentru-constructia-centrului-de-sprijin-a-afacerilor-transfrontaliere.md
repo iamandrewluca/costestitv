@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2275
 permalink: /stiri/verificarea-derularii-lucrarilor-pentru-constructia-centrului-de-sprijin-a-afacerilor-transfrontaliere/
-image: /wp-content/uploads/2014/09/0908_5.jpg
+image: /costestitv/wp-content/uploads//2014/09/0908_5.jpg
 categories:
   - Social
   - Știri

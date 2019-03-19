@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2216
 permalink: /stiri/sport/liceului-teoretic-aurel-david-din-satul-bardar-are-un-nou-mini-teren-de-fotbal/
-image: /wp-content/uploads/2014/09/01.09_1.jpg
+image: /costestitv/wp-content/uploads//2014/09/01.09_1.jpg
 categories:
   - Sport
   - Știri

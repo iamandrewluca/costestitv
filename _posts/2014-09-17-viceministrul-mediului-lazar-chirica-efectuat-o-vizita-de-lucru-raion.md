@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2396
 permalink: /stiri/viceministrul-mediului-lazar-chirica-efectuat-o-vizita-de-lucru-raion/
-image: /wp-content/uploads/2014/09/16092014_1.jpg
+image: /costestitv/wp-content/uploads//2014/09/16092014_1.jpg
 categories:
   - Politică
   - Social

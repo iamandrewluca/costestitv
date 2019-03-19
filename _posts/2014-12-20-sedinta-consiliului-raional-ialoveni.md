@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3255
 permalink: /stiri/sedinta-consiliului-raional-ialoveni/
-image: /wp-content/uploads/2014/12/18122014_1.jpg
+image: /costestitv/wp-content/uploads//2014/12/18122014_1.jpg
 categories:
   - Politică
   - Social

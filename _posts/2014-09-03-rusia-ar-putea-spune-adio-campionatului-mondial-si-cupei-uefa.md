@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2210
 permalink: /stiri/rusia-ar-putea-spune-adio-campionatului-mondial-si-cupei-uefa/
-image: /wp-content/uploads/2014/09/3.-Biserica-Sf.-Vasile-Moscova-Rusia.jpg
+image: /costestitv/wp-content/uploads//2014/09/3.-Biserica-Sf.-Vasile-Moscova-Rusia.jpg
 categories:
   - Externe
   - Știri

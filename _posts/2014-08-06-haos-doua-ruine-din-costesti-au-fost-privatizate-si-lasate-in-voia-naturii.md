@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2111
 permalink: /stiri/haos-doua-ruine-din-costesti-au-fost-privatizate-si-lasate-in-voia-naturii/
-image: /wp-content/uploads/2014/08/59.jpg
+image: /costestitv/wp-content/uploads//2014/08/59.jpg
 categories:
   - Social
   - Știri

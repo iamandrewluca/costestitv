@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2393
 permalink: /stiri/cetateni-nevoiasi-vor-primi-ajutor-material/
-image: /wp-content/uploads/2014/09/17092014_1.jpg
+image: /costestitv/wp-content/uploads//2014/09/17092014_1.jpg
 categories:
   - Social
   - Știri

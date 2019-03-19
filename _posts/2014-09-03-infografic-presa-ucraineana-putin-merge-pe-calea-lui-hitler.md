@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2201
 permalink: /stiri/infografic-presa-ucraineana-putin-merge-pe-calea-lui-hitler/
-image: /wp-content/uploads/2014/09/putinhitler.png
+image: /costestitv/wp-content/uploads//2014/09/putinhitler.png
 categories:
   - Externe
   - Știri
@@ -20,7 +20,7 @@ La 75 de ani de la izbucnirea celui de al Doilea Război Mondial, autorii grafic
 </p>
 
 <p style="color: #000000;">
-  <a href="/wp-content/uploads/2014/09/putinhitler.png"><img class="alignnone  wp-image-2202" src="/wp-content/uploads/2014/09/putinhitler-300x234.png" alt="putinhitler" width="623" height="486" srcset="http://costestitv.ddev.local/wp-content/uploads/2014/09/putinhitler-300x234.png 300w, http://costestitv.ddev.local/wp-content/uploads/2014/09/putinhitler.png 1024w" sizes="(max-width: 623px) 100vw, 623px" /></a>
+  <a href="/costestitv/wp-content/uploads//2014/09/putinhitler.png"><img class="alignnone  wp-image-2202" src="/costestitv/wp-content/uploads//2014/09/putinhitler-300x234.png" alt="putinhitler" width="623" height="486" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/09/putinhitler-300x234.png 300w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/09/putinhitler.png 1024w" sizes="(max-width: 623px) 100vw, 623px" /></a>
 </p>
 
 <p style="color: #000000;">

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2249
 permalink: /stiri/zambreni-satul-cu-cele-mai-multe-drumuri-asfaltate-din-tara/
-image: /wp-content/uploads/2014/09/IMG_0071-asfalt-Bucsani.jpg
+image: /costestitv/wp-content/uploads//2014/09/IMG_0071-asfalt-Bucsani.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2299
 permalink: /stiri/presedintele-raionului-in-vizta-la-razeni/
-image: /wp-content/uploads/2014/09/0909_1.jpg
+image: /costestitv/wp-content/uploads//2014/09/0909_1.jpg
 categories:
   - Social
   - Știri

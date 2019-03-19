@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2632
 permalink: /stiri/vizita-delegatiei-din-cadrul-inspectoratului-scolar-judetean-prahova/
-image: /wp-content/uploads/2014/10/DI_PRAHOVA_3.jpg
+image: /costestitv/wp-content/uploads//2014/10/DI_PRAHOVA_3.jpg
 categories:
   - Social
   - Știri

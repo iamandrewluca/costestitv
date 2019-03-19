@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2770
 permalink: /stiri/etapa-finala-cupei-functionarului-public-la-fotbal/
-image: /wp-content/uploads/2014/10/18102014_1.jpg
+image: /costestitv/wp-content/uploads//2014/10/18102014_1.jpg
 categories:
   - Social
   - Știri

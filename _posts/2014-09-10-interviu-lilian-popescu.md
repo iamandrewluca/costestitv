@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2278
 permalink: /stiri/interviu-lilian-popescu/
-image: /wp-content/uploads/2014/09/dsc_0044.jpg
+image: /costestitv/wp-content/uploads//2014/09/dsc_0044.jpg
 categories:
   - Politică
   - Social

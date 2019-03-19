@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2816
 permalink: /stiri/demisia-vice-primarului/
-image: /wp-content/uploads/2014/10/DSC_0226.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0226.jpg
 categories:
   - Politică
   - Știri

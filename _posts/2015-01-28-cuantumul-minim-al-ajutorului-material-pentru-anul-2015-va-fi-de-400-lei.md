@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3334
 permalink: /stiri/cuantumul-minim-al-ajutorului-material-pentru-anul-2015-va-fi-de-400-lei/
-image: /wp-content/uploads/2015/01/27012015_AS_4.jpg
+image: /costestitv/wp-content/uploads//2015/01/27012015_AS_4.jpg
 categories:
   - Social
   - Știri

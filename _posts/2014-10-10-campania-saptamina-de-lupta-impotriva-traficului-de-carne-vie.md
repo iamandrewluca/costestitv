@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2558
 permalink: /stiri/campania-saptamina-de-lupta-impotriva-traficului-de-carne-vie/
-image: /wp-content/uploads/2014/10/09102014_2.jpg
+image: /costestitv/wp-content/uploads//2014/10/09102014_2.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3205
 permalink: /stiri/balul-bobocilor-la-olimp-video/
-image: /wp-content/uploads/2014/12/DSC_0001.jpg
+image: /costestitv/wp-content/uploads//2014/12/DSC_0001.jpg
 categories:
   - Social
   - Știri

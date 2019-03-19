@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2970
 permalink: /stiri/la-ialoveni-klaus-iohannis-a-castigat-detasat/
-image: /wp-content/uploads/2014/11/images-cms-image-000011184.jpg
+image: /costestitv/wp-content/uploads//2014/11/images-cms-image-000011184.jpg
 categories:
   - Politică
   - Știri

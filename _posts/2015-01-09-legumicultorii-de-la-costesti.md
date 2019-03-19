@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3318
 permalink: /stiri/legumicultorii-de-la-costesti/
-image: /wp-content/uploads/2015/01/LEGUMICULTORI.png
+image: /costestitv/wp-content/uploads//2015/01/LEGUMICULTORI.png
 categories:
   - Social
   - Știri

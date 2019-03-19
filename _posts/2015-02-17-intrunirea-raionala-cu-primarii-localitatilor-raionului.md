@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3408
 permalink: /stiri/intrunirea-raionala-cu-primarii-localitatilor-raionului/
-image: /wp-content/uploads/2015/02/05022015_SAP_5.jpg
+image: /costestitv/wp-content/uploads//2015/02/05022015_SAP_5.jpg
 categories:
   - Politică
   - Social

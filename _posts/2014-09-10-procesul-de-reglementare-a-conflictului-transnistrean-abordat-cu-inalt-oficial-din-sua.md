@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2286
 permalink: /stiri/procesul-de-reglementare-a-conflictului-transnistrean-abordat-cu-inalt-oficial-din-sua/
-image: /wp-content/uploads/2014/09/big-procesul-de-reglementarea-conflictului-transnistrean-abordat-cu-inalt-oficial-din-sua.jpg
+image: /costestitv/wp-content/uploads//2014/09/big-procesul-de-reglementarea-conflictului-transnistrean-abordat-cu-inalt-oficial-din-sua.jpg
 categories:
   - Social
   - Știri

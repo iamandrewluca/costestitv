@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=633
 permalink: /istorie/personalitati/mihai-jomir/
 original_post_id:
   - "633"
-image: /wp-content/uploads/2013/04/mihai_jomir.jpg
+image: /costestitv/wp-content/uploads//2013/04/mihai_jomir.jpg
 categories:
   - Personalități
 ---

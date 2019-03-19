@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3339
 permalink: /stiri/fondul-pentru-tineri-ialoveni-platforma-de-dezvoltare-a-tinerei-generatii/
-image: /wp-content/uploads/2015/01/1011012015_7.jpg
+image: /costestitv/wp-content/uploads//2015/01/1011012015_7.jpg
 categories:
   - Social
   - Știri

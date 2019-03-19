@@ -6,7 +6,7 @@ author: Maria Bivol
 layout: post
 guid: http://costestitv.info/?p=3344
 permalink: /stiri/a-o-alternativa-recruteaza-tineri-activi-din-raionul-ialoveni/
-image: /wp-content/uploads/2015/01/s2.jpg
+image: /costestitv/wp-content/uploads//2015/01/s2.jpg
 categories:
   - Social
   - Știri

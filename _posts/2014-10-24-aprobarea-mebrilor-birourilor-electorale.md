@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2828
 permalink: /stiri/aprobarea-mebrilor-birourilor-electorale/
-image: /wp-content/uploads/2014/10/658x0_Alegeri-parlamentare_11.jpg
+image: /costestitv/wp-content/uploads//2014/10/658x0_Alegeri-parlamentare_11.jpg
 categories:
   - Politică
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3468
 permalink: /stiri/actiune-de-comemorare/
-image: /wp-content/uploads/2015/03/DSC_0629.jpg
+image: /costestitv/wp-content/uploads//2015/03/DSC_0629.jpg
 categories:
   - Social
   - Știri

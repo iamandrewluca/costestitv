@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3348
 permalink: /stiri/producatorii-agricoli-din-raionul-ialoveni-participanti-la-fabricat-in-moldova/
-image: /wp-content/uploads/2015/02/29012015_7.jpg
+image: /costestitv/wp-content/uploads//2015/02/29012015_7.jpg
 categories:
   - Social
   - Știri

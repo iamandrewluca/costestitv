@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2409
 permalink: /stiri/in-satul-razeni-va-fi-construit-un-scuar/
-image: /wp-content/uploads/2014/09/s4f489bd5552e5.jpg
+image: /costestitv/wp-content/uploads//2014/09/s4f489bd5552e5.jpg
 categories:
   - Social
   - Știri

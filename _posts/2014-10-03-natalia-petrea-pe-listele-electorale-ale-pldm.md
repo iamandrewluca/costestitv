@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2498
 permalink: /stiri/natalia-petrea-pe-listele-electorale-ale-pldm/
-image: /wp-content/uploads/2014/10/10246551_786694034694596_7827004732899422693_n3.jpg
+image: /costestitv/wp-content/uploads//2014/10/10246551_786694034694596_7827004732899422693_n3.jpg
 categories:
   - Politică
   - Știri

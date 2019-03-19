@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2322
 permalink: /stiri/evidenta-contabila-a-gospodariilor-taranesti-detinatori-de-plantatii-viticole/
-image: /wp-content/uploads/2014/09/12.09_2.jpg
+image: /costestitv/wp-content/uploads//2014/09/12.09_2.jpg
 categories:
   - Social
   - Știri

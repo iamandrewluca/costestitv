@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=630
 permalink: /istorie/personalitati/bivol-efim/
 original_post_id:
   - "630"
-image: /wp-content/uploads/2013/03/1.png
+image: /costestitv/wp-content/uploads//2013/03/1.png
 categories:
   - Personalități
 ---

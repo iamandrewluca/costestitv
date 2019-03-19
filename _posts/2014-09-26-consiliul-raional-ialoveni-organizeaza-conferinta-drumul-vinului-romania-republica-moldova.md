@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2438
 permalink: /stiri/consiliul-raional-ialoveni-organizeaza-conferinta-drumul-vinului-romania-republica-moldova/
-image: /wp-content/uploads/2014/09/phpThumb_generated_thumbnailjpg.jpg
+image: /costestitv/wp-content/uploads//2014/09/phpThumb_generated_thumbnailjpg.jpg
 categories:
   - Social
   - Știri

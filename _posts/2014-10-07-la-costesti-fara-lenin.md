@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2534
 permalink: /istorie/la-costesti-fara-lenin/
-image: /wp-content/uploads/2014/10/len.jpg
+image: /costestitv/wp-content/uploads//2014/10/len.jpg
 categories:
   - Învățăminte
   - Istorie

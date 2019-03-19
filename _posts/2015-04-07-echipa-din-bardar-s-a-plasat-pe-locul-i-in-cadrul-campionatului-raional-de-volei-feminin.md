@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3553
 permalink: /stiri/sport/echipa-din-bardar-s-a-plasat-pe-locul-i-in-cadrul-campionatului-raional-de-volei-feminin/
-image: /wp-content/uploads/2015/04/28032015.jpg
+image: /costestitv/wp-content/uploads//2015/04/28032015.jpg
 categories:
   - Sport
   - Știri

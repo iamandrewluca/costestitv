@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3315
 permalink: /stiri/pod-nou-peste-rauletul-ce-disparte-garlea-de-furnicari-video/
-image: /wp-content/uploads/2015/01/pod-img.png
+image: /costestitv/wp-content/uploads//2015/01/pod-img.png
 categories:
   - Social
   - Știri

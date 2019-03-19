@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2316
 permalink: /stiri/somerii-antrenati-la-lucrari-publice-vor-avea-salariul-nu-mai-putin-de-1000-lei-lunar/
-image: /wp-content/uploads/2014/09/maturatori.jpg
+image: /costestitv/wp-content/uploads//2014/09/maturatori.jpg
 categories:
   - Social
   - Știri

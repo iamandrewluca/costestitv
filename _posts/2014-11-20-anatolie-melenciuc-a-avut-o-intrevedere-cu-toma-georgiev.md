@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3168
 permalink: /stiri/anatolie-melenciuc-a-avut-o-intrevedere-cu-toma-georgiev/
-image: /wp-content/uploads/2014/11/vicepresedintemelenciuc.jpg
+image: /costestitv/wp-content/uploads//2014/11/vicepresedintemelenciuc.jpg
 categories:
   - Social
   - Știri

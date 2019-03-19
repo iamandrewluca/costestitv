@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2295
 permalink: /stiri/consilierii-raionali-au-refuzat-sa-sustina-reformele-promovate-de-ministerul-educatiei/
-image: /wp-content/uploads/2014/09/Interviu-Ministrul-Educatiei-RM-Maia-Sandu-1.jpg
+image: /costestitv/wp-content/uploads//2014/09/Interviu-Ministrul-Educatiei-RM-Maia-Sandu-1.jpg
 categories:
   - Politică
   - Social
@@ -24,7 +24,7 @@ Astfel, în şedinţa de astăzi, consilierii raionali au decis să lase lucruri
 
 &nbsp;
 
-Sursa <a href="http://ialovenionline.md" target="_blank">Ialovenionline</a>[<img class="alignleft wp-image-2296" src="/wp-content/uploads/2014/09/phpThumb_generated_thumbnailjpg-6.jpg" alt="phpThumb_generated_thumbnailjpg (6)" width="309" height="437" />](/wp-content/uploads/2014/09/phpThumb_generated_thumbnailjpg-6.jpg)
+Sursa <a href="http://ialovenionline.md" target="_blank">Ialovenionline</a>[<img class="alignleft wp-image-2296" src="/costestitv/wp-content/uploads//2014/09/phpThumb_generated_thumbnailjpg-6.jpg" alt="phpThumb_generated_thumbnailjpg (6)" width="309" height="437" />](/costestitv/wp-content/uploads//2014/09/phpThumb_generated_thumbnailjpg-6.jpg)
 
 &nbsp;
 

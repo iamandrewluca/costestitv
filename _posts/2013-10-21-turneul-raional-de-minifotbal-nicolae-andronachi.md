@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1685
 permalink: /stiri/sport/turneul-raional-de-minifotbal-nicolae-andronachi/
 original_post_id:
   - "1685"
-image: /wp-content/uploads/2013/10/mini-footbal.jpg
+image: /costestitv/wp-content/uploads//2013/10/mini-footbal.jpg
 categories:
   - Sport
   - Știri

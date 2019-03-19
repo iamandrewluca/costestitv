@@ -6,7 +6,7 @@ author: Ştefan Grigoriţa
 layout: post
 guid: http://costestitv.info/?p=2583
 permalink: /stiri/protv-pasagerul-din-costesti-omorat-de-catre-un-taximetrist-petrecut-pe-ultimul-drum-l-ucis-pentru-10-lei/
-image: /wp-content/uploads/2014/10/212141.jpg
+image: /costestitv/wp-content/uploads//2014/10/212141.jpg
 categories:
   - Social
   - Știri

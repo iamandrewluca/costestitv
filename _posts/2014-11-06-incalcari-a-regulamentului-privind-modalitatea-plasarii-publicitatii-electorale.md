@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2977
 permalink: /stiri/incalcari-a-regulamentului-privind-modalitatea-plasarii-publicitatii-electorale/
-image: /wp-content/uploads/2014/11/DSC_0754.jpg
+image: /costestitv/wp-content/uploads//2014/11/DSC_0754.jpg
 categories:
   - Electorala 2014
   - Politică

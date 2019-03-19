@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3195
 permalink: /stiri/fii-vizibil-poarta-un-reflectorizant/
-image: /wp-content/uploads/2014/12/10818605_738423422902399_844466471_n.jpg
+image: /costestitv/wp-content/uploads//2014/12/10818605_738423422902399_844466471_n.jpg
 categories:
   - Social
   - Știri

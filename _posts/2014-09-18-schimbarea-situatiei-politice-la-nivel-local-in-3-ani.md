@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2405
 permalink: /opinii/schimbarea-situatiei-politice-la-nivel-local-in-3-ani/
-image: /wp-content/uploads/2014/09/preluata-de-pe-svetlana-catan-bolg1.jpg
+image: /costestitv/wp-content/uploads//2014/09/preluata-de-pe-svetlana-catan-bolg1.jpg
 categories:
   - Opinii
   - Politică

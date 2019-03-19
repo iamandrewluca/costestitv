@@ -13,7 +13,7 @@ categories:
   - Știri
 ---
 <p style="text-align:justify;">
-  <a href="http://costesti.tv/wp-content/uploads/2013/07/9_nnu2q5tjyjouemzwvvg3nt_bewrxj_imq.jpg"><img alt="9_nnu2q5tjyjouemzwvvg3nt_bewrxj_imq" class="alignleft size-full wp-image-1065" height="283" src="http://costesti.tv/wp-content/uploads/2013/07/9_nnu2q5tjyjouemzwvvg3nt_bewrxj_imq.jpg" width="399" /></a>Administraţia raionului Ialoveni invită tinerii cetăţeni activi (16 &ndash; 35 ani) să participe la Forumul de Vară al Tinerilor, cu genericul: ,,Discuţie. Poziţie. Rezoluţie."
+  <a href="http://costesti.tv/costestitv/wp-content/uploads//2013/07/9_nnu2q5tjyjouemzwvvg3nt_bewrxj_imq.jpg"><img alt="9_nnu2q5tjyjouemzwvvg3nt_bewrxj_imq" class="alignleft size-full wp-image-1065" height="283" src="http://costesti.tv/costestitv/wp-content/uploads//2013/07/9_nnu2q5tjyjouemzwvvg3nt_bewrxj_imq.jpg" width="399" /></a>Administraţia raionului Ialoveni invită tinerii cetăţeni activi (16 &ndash; 35 ani) să participe la Forumul de Vară al Tinerilor, cu genericul: ,,Discuţie. Poziţie. Rezoluţie."
 </p>
 
 <p style="text-align:justify;">

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3299
 permalink: /stiri/mesajul-de-felicitare-al-presedintelui-raionului-lilian-popescu-cu-prilejul-sarbatorilor-de-iarna/
-image: /wp-content/uploads/2015/01/oferta_revelion_2014_salon_evenimente_64114200.jpg
+image: /costestitv/wp-content/uploads//2015/01/oferta_revelion_2014_salon_evenimente_64114200.jpg
 categories:
   - Social
   - Știri

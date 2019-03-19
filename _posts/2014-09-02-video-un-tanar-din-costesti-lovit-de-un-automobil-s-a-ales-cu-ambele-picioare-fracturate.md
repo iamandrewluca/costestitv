@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2143
 permalink: /stiri/video-un-tanar-din-costesti-lovit-de-un-automobil-s-a-ales-cu-ambele-picioare-fracturate/
-image: /wp-content/uploads/2014/09/stories.articole.2014.fracturi-costestinsp_21-e1409635387125.jpg
+image: /costestitv/wp-content/uploads//2014/09/stories.articole.2014.fracturi-costestinsp_21-e1409635387125.jpg
 categories:
   - Social
   - Știri

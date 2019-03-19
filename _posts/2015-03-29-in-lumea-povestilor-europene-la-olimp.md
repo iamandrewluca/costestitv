@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3508
 permalink: /stiri/cultura/in-lumea-povestilor-europene-la-olimp/
-image: /wp-content/uploads/2015/03/SDC19264.jpg
+image: /costestitv/wp-content/uploads//2015/03/SDC19264.jpg
 categories:
   - Cultură
   - Social
@@ -20,54 +20,54 @@ Avem și la “Olimp” TALENTE !!!
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19248/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19248-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19248/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19248-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19249/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19249-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19249/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19249-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19250/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19250-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19250/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19250-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19251/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19251-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19251/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19251-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19253/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19253-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19253/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19253-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19257/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19257-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19257/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19257-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19260/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19260-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19260/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19260-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19262/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19262-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19262/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19262-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19273/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19273-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19273/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19273-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19274/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19274-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19274/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19274-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19276/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19276-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19276/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19276-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19284/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19284-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19284/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19284-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19285/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/SDC19285-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/stiri/cultura/in-lumea-povestilor-europene-la-olimp/attachment/sdc19285/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/SDC19285-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

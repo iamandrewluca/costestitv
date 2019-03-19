@@ -8,7 +8,7 @@ guid: http://costestean.wordpress.com/?p=1984
 permalink: /stiri/scandalul-din-primarie-in-atentia-jurnal-tv/
 publicize_facebook_url:
   - https://facebook.com/350616745011191_675924195813776
-image: /wp-content/uploads/2014/06/75044878.jpg
+image: /costestitv/wp-content/uploads//2014/06/75044878.jpg
 categories:
   - Știri
 ---

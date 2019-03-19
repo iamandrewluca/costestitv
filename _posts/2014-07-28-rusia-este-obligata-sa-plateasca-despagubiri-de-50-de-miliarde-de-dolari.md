@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2090
 permalink: /stiri/externe/rusia-este-obligata-sa-plateasca-despagubiri-de-50-de-miliarde-de-dolari/
-image: /wp-content/uploads/2014/07/3.-Biserica-Sf.-Vasile-Moscova-Rusia.jpg
+image: /costestitv/wp-content/uploads//2014/07/3.-Biserica-Sf.-Vasile-Moscova-Rusia.jpg
 categories:
   - Externe
 ---

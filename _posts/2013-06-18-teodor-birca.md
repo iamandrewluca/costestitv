@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1663
 permalink: /istorie/personalitati/teodor-birca/
 original_post_id:
   - "1663"
-image: /wp-content/uploads/2013/06/009.png
+image: /costestitv/wp-content/uploads//2013/06/009.png
 categories:
   - Personalități
 ---

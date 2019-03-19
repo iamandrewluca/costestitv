@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3331
 permalink: /stiri/pomicultorii-din-raion-intrunti-la-un-seminar-de-informare/
-image: /wp-content/uploads/2015/01/23012015_1.jpg
+image: /costestitv/wp-content/uploads//2015/01/23012015_1.jpg
 categories:
   - Social
   - Știri

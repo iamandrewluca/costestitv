@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3200
 permalink: /stiri/tatian-borta-chitara-am-indragit-o-cand-ieseam-cu-prietenii/
-image: /wp-content/uploads/2014/12/10371220_411344579008268_6143268813514218592_o.jpg
+image: /costestitv/wp-content/uploads//2014/12/10371220_411344579008268_6143268813514218592_o.jpg
 categories:
   - Social
   - Știri

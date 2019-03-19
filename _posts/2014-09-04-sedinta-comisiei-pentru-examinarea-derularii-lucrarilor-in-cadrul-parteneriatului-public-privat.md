@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2222
 permalink: /stiri/sedinta-comisiei-pentru-examinarea-derularii-lucrarilor-in-cadrul-parteneriatului-public-privat/
-image: /wp-content/uploads/2014/09/04092014.jpg
+image: /costestitv/wp-content/uploads//2014/09/04092014.jpg
 categories:
   - Social
   - Știri

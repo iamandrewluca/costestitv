@@ -8,7 +8,7 @@ guid: http://costestean.wordpress.com/?p=1976
 permalink: /stiri/cat-costa-sa-incepi-o-afacere-cu-capsune-afla-povestea-de-succes-a-unui-fermier-moldovean/
 publicize_facebook_url:
   - https://facebook.com/350616745011191_671392096266986
-image: /wp-content/uploads/2014/06/capsuni.jpg
+image: /costestitv/wp-content/uploads//2014/06/capsuni.jpg
 categories:
   - Social
   - Știri

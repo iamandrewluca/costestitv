@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2225
 permalink: /stiri/in-atentia-cetatenilor-din-raionul-ialoveni/
-image: /wp-content/uploads/2014/09/mini-israel-tel-aviv.jpg
+image: /costestitv/wp-content/uploads//2014/09/mini-israel-tel-aviv.jpg
 categories:
   - Social
   - Știri

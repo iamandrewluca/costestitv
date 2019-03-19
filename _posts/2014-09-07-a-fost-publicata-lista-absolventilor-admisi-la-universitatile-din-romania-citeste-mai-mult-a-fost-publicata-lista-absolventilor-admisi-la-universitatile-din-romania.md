@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2246
 permalink: /stiri/a-fost-publicata-lista-absolventilor-admisi-la-universitatile-din-romania-citeste-mai-mult-a-fost-publicata-lista-absolventilor-admisi-la-universitatile-din-romania/
-image: /wp-content/uploads/2014/09/admitere_liceu_45086900.jpg
+image: /costestitv/wp-content/uploads//2014/09/admitere_liceu_45086900.jpg
 categories:
   - Social
   - Știri

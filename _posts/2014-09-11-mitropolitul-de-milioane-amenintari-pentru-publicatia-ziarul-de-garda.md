@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2313
 permalink: /stiri/mitropolitul-de-milioane-amenintari-pentru-publicatia-ziarul-de-garda/
-image: /wp-content/uploads/2014/09/10678129_868976859780038_1642210704_o.jpg
+image: /costestitv/wp-content/uploads//2014/09/10678129_868976859780038_1642210704_o.jpg
 categories:
   - Politică
   - Social

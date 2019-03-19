@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2262
 permalink: /stiri/cercul-de-creatie-art-club-vasieni-si-a-inceput-activitatea/
-image: /wp-content/uploads/2014/09/3-1cbe7a3992.jpg
+image: /costestitv/wp-content/uploads//2014/09/3-1cbe7a3992.jpg
 categories:
   - Social
   - Știri

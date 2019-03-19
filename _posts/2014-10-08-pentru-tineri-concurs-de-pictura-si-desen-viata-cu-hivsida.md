@@ -6,7 +6,7 @@ author: Maria Bivol
 layout: post
 guid: http://costestitv.info/?p=2537
 permalink: /stiri/pentru-tineri-concurs-de-pictura-si-desen-viata-cu-hivsida/
-image: /wp-content/uploads/2014/10/pc.jpg
+image: /costestitv/wp-content/uploads//2014/10/pc.jpg
 categories:
   - Social
   - Știri
@@ -16,7 +16,7 @@ Asociația Obștească Alternativa în colaborare cu Rețeaua Națională Y-PEER
 
 **         ** Concursul  are drept scop sensibilizarea comunităţii privind atitudinea asupra persoanelor care trăiesc cu virusul HIV, combaterea şi prevenirea acestuia şi promovarea toleranţii faţă de victimile HIV/SIDA.
 
-Dacă ai vîrsta cuprinsă între 14 și 20 de ani și ești creativ, te invităm să participi la concurs, accesind [Regulament\_concurs\_de_pictura](/wp-content/uploads/2014/10/Regulament_concurs_de_pictura.docx)
+Dacă ai vîrsta cuprinsă între 14 și 20 de ani și ești creativ, te invităm să participi la concurs, accesind [Regulament\_concurs\_de_pictura](/costestitv/wp-content/uploads//2014/10/Regulament_concurs_de_pictura.docx)
 
 **_           _** 
 

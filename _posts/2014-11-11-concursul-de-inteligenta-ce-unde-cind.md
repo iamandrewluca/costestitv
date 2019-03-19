@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3122
 permalink: /stiri/concursul-de-inteligenta-ce-unde-cind/
-image: /wp-content/uploads/2014/11/concurs.jpg
+image: /costestitv/wp-content/uploads//2014/11/concurs.jpg
 categories:
   - Social
   - Știri

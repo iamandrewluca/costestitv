@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2957
 permalink: /stiri/sport/pojareni-este-campioana-raionului-la-fotbal-2014/
-image: /wp-content/uploads/2014/09/fussball-rasen-100_v-image853_-7ce44e292721619ab1c1077f6f262a89f55266d7.jpg
+image: /costestitv/wp-content/uploads//2014/09/fussball-rasen-100_v-image853_-7ce44e292721619ab1c1077f6f262a89f55266d7.jpg
 categories:
   - Sport
   - Știri

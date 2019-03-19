@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2198
 permalink: /stiri/prima-casa-de-ambalare-a-strugurilor-de-masa-din-moldova-va-fi-gata-in-2015/
-image: /wp-content/uploads/2014/09/buna-de-must.jpg
+image: /costestitv/wp-content/uploads//2014/09/buna-de-must.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3324
 permalink: /stiri/haiducii-au-mers-cu-uratu/
-image: /wp-content/uploads/2015/01/cu-uratu.jpg
+image: /costestitv/wp-content/uploads//2015/01/cu-uratu.jpg
 categories:
   - Divertisment
   - Social

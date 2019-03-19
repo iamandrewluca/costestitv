@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2485
 permalink: /stiri/sarbatoarea-dedicata-zilei-profesionale-pedagogului/
-image: /wp-content/uploads/2014/10/02102014_1.jpg
+image: /costestitv/wp-content/uploads//2014/10/02102014_1.jpg
 categories:
   - Social
   - Știri

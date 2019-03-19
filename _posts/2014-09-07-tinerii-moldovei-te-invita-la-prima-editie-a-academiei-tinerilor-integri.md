@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2265
 permalink: /stiri/tinerii-moldovei-te-invita-la-prima-editie-a-academiei-tinerilor-integri/
-image: /wp-content/uploads/2014/09/fon_inchis.jpg
+image: /costestitv/wp-content/uploads//2014/09/fon_inchis.jpg
 categories:
   - Social
   - Știri

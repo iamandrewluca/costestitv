@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2255
 permalink: /stiri/au-fost-receptionate-unde-radio-din-exteriorul-galaxiei/
-image: /wp-content/uploads/2014/09/aq4.jpg
+image: /costestitv/wp-content/uploads//2014/09/aq4.jpg
 categories:
   - Externe
   - Știri

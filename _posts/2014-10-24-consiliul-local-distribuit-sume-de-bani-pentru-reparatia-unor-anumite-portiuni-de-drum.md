@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2826
 permalink: /stiri/consiliul-local-distribuit-sume-de-bani-pentru-reparatia-unor-anumite-portiuni-de-drum/
-image: /wp-content/uploads/2014/10/DSC_0064.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0064.jpg
 categories:
   - Politică
   - Social

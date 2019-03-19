@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2638
 permalink: /stiri/gradinita-din-costesti-primit-un-set-de-mobila-pentru-o-grupa-de-copii/
-image: /wp-content/uploads/2014/10/costesti_set_de_mobila_2.jpg
+image: /costestitv/wp-content/uploads//2014/10/costesti_set_de_mobila_2.jpg
 categories:
   - Politică
   - Social

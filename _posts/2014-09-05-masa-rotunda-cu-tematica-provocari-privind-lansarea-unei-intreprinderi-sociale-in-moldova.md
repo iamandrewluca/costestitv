@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2234
 permalink: /stiri/masa-rotunda-cu-tematica-provocari-privind-lansarea-unei-intreprinderi-sociale-in-moldova/
-image: /wp-content/uploads/2014/09/04092014R_2.jpg
+image: /costestitv/wp-content/uploads//2014/09/04092014R_2.jpg
 categories:
   - Social
   - Știri

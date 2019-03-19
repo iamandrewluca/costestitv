@@ -6,7 +6,7 @@ author: Maria Bivol
 layout: post
 guid: http://costestitv.info/?p=2930
 permalink: /stiri/lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/
-image: /wp-content/uploads/2014/10/cltc.jpg
+image: /costestitv/wp-content/uploads//2014/10/cltc.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3312
 permalink: /stiri/atentie-soferi-politia-recomanda-sa-conduceti-cu-maxima-prudenta/
-image: /wp-content/uploads/2015/01/ninsoare_si_inspectori-528x264.jpg
+image: /costestitv/wp-content/uploads//2015/01/ninsoare_si_inspectori-528x264.jpg
 categories:
   - Social
   - Știri

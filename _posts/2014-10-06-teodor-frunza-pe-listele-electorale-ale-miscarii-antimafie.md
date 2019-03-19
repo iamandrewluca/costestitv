@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2510
 permalink: /stiri/teodor-frunza-pe-listele-electorale-ale-miscarii-antimafie/
-image: /wp-content/uploads/2014/10/48392.jpg
+image: /costestitv/wp-content/uploads//2014/10/48392.jpg
 categories:
   - Politică
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2231
 permalink: /stiri/ziua-limbii-romane-video/
-image: /wp-content/uploads/2014/09/DSC_0243.jpg
+image: /costestitv/wp-content/uploads//2014/09/DSC_0243.jpg
 categories:
   - Cultură
   - Știri

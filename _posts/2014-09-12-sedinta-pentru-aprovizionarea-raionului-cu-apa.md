@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2319
 permalink: /stiri/sedinta-pentru-aprovizionarea-raionului-cu-apa/
-image: /wp-content/uploads/2014/09/11.09_1.jpg
+image: /costestitv/wp-content/uploads//2014/09/11.09_1.jpg
 categories:
   - Social
   - Știri

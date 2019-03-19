@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1402
 permalink: /carti-online/padurea-spinzuratilor-liviu-rebreanu/
 original_post_id:
   - "1402"
-image: /wp-content/uploads/2013/04/padurea.jpg
+image: /costestitv/wp-content/uploads//2013/04/padurea.jpg
 categories:
   - Cărți
 format: image

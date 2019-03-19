@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3495
 permalink: /istorie/invataminte/euro-olimpicii/
-image: /wp-content/uploads/2015/03/IMAG2289.jpg
+image: /costestitv/wp-content/uploads//2015/03/IMAG2289.jpg
 categories:
   - Cultură
   - Învățăminte
@@ -15,27 +15,27 @@ categories:
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2288/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/IMAG2288-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2288/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/IMAG2288-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2289-2/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/IMAG22891-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2289-2/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/IMAG22891-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2290/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/IMAG2290-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2290/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/IMAG2290-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2292/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/IMAG2292-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2292/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/IMAG2292-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2293/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/IMAG2293-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2293/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/IMAG2293-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2294/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/IMAG2294-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/istorie/invataminte/euro-olimpicii/attachment/imag2294/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/IMAG2294-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>
 

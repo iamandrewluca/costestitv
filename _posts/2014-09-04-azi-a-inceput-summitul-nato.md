@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2228
 permalink: /stiri/azi-a-inceput-summitul-nato/
-image: /wp-content/uploads/2014/09/the-2-day-meeting-would-focus-on-the-security-crisis-resulting-from-the-situation-in-ukraine-1467630-reu.jpg
+image: /costestitv/wp-content/uploads//2014/09/the-2-day-meeting-would-focus-on-the-security-crisis-resulting-from-the-situation-in-ukraine-1467630-reu.jpg
 categories:
   - Externe
   - Știri

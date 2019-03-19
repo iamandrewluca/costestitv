@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2100
 permalink: /stiri/ong-urile-de-media-solicita-parlamentului-sa-nu-admita-ingradirea-libertatii-internetului/
-image: /wp-content/uploads/2014/08/libertateaprsei.jpg
+image: /costestitv/wp-content/uploads//2014/08/libertateaprsei.jpg
 categories:
   - Știri
 ---

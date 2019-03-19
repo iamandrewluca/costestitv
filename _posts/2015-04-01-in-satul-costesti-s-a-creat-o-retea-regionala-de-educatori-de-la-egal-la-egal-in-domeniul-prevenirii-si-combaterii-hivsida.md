@@ -6,7 +6,7 @@ author: Maria Bivol
 layout: post
 guid: http://costestitv.info/?p=3541
 permalink: /stiri/in-satul-costesti-s-a-creat-o-retea-regionala-de-educatori-de-la-egal-la-egal-in-domeniul-prevenirii-si-combaterii-hivsida/
-image: /wp-content/uploads/2015/04/foto3.jpg
+image: /costestitv/wp-content/uploads//2015/04/foto3.jpg
 categories:
   - Învățăminte
   - Știri

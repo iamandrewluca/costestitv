@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2242
 permalink: /stiri/reeditarea-manualelor-a-costat-165-milioane-lei/
-image: /wp-content/uploads/2014/09/Ghidul-expertului-contabil-Manuale-care-nu-trebuie-sa-ti-lipseasca-din-biblioteca.jpg
+image: /costestitv/wp-content/uploads//2014/09/Ghidul-expertului-contabil-Manuale-care-nu-trebuie-sa-ti-lipseasca-din-biblioteca.jpg
 categories:
   - Social
   - Știri

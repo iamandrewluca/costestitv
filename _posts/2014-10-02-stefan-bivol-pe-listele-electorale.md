@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2476
 permalink: /stiri/stefan-bivol-pe-listele-electorale/
-image: /wp-content/uploads/2014/10/21CAB6C5-6B61-48BF-ABF0-B7AC950823A1_mw800_s.jpg
+image: /costestitv/wp-content/uploads//2014/10/21CAB6C5-6B61-48BF-ABF0-B7AC950823A1_mw800_s.jpg
 categories:
   - Politică
   - Știri

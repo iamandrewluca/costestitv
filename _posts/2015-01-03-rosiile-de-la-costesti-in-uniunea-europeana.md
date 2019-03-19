@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3295
 permalink: /stiri/rosiile-de-la-costesti-in-uniunea-europeana/
-image: /wp-content/uploads/2015/01/4e8c54bb3afcc0a13b5facb932fbf1fb.jpg
+image: /costestitv/wp-content/uploads//2015/01/4e8c54bb3afcc0a13b5facb932fbf1fb.jpg
 categories:
   - Social
   - Știri

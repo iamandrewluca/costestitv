@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2237
 permalink: /stiri/breaking-news-pace-in-ucraina-incetarea-focului-la-ora-1800/
-image: /wp-content/uploads/2014/09/images-cms-image-000008038.jpg
+image: /costestitv/wp-content/uploads//2014/09/images-cms-image-000008038.jpg
 categories:
   - Externe
   - Știri

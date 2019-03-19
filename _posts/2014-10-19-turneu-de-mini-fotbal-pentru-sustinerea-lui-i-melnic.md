@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2700
 permalink: /stiri/sport/turneu-de-mini-fotbal-pentru-sustinerea-lui-i-melnic/
-image: /wp-content/uploads/2014/10/DSC_0141.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0141.jpg
 categories:
   - Social
   - Sport

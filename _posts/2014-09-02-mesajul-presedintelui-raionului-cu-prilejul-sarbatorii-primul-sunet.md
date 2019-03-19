@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2178
 permalink: /stiri/mesajul-presedintelui-raionului-cu-prilejul-sarbatorii-primul-sunet/
-image: /wp-content/uploads/2014/09/dsc_0044.jpg
+image: /costestitv/wp-content/uploads//2014/09/dsc_0044.jpg
 categories:
   - Social
   - Știri

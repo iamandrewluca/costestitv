@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2548
 permalink: /stiri/sport/deschiderea-stadionului-la-liceul-teoretic-costesti-video/
-image: /wp-content/uploads/2014/10/002.jpg
+image: /costestitv/wp-content/uploads//2014/10/002.jpg
 categories:
   - Social
   - Sport

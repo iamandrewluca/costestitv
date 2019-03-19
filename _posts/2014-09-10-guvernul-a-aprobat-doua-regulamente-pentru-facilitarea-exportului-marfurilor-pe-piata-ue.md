@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2283
 permalink: /stiri/guvernul-a-aprobat-doua-regulamente-pentru-facilitarea-exportului-marfurilor-pe-piata-ue/
-image: /wp-content/uploads/2014/09/big-guvernul-a-aprobat-doua-regulamente-pentru-facilitarea-exportului-marfurilor-pe-piata-ue.jpg
+image: /costestitv/wp-content/uploads//2014/09/big-guvernul-a-aprobat-doua-regulamente-pentru-facilitarea-exportului-marfurilor-pe-piata-ue.jpg
 categories:
   - Social
   - Știri

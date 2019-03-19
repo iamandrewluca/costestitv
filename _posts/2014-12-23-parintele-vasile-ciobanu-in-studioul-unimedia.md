@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3277
 permalink: /stiri/parintele-vasile-ciobanu-in-studioul-unimedia/
-image: /wp-content/uploads/2014/12/parintele-vasile.jpg
+image: /costestitv/wp-content/uploads//2014/12/parintele-vasile.jpg
 categories:
   - Cultură
   - Social

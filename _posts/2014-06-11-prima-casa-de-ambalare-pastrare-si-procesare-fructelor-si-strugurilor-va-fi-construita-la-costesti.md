@@ -8,7 +8,7 @@ guid: http://costestean.wordpress.com/?p=1980
 permalink: /stiri/prima-casa-de-ambalare-pastrare-si-procesare-fructelor-si-strugurilor-va-fi-construita-la-costesti/
 publicize_facebook_url:
   - https://facebook.com/350616745011191_672637292809133
-image: /wp-content/uploads/2014/06/phpThumb_generated_thumbnailjpg-1.jpg
+image: /costestitv/wp-content/uploads//2014/06/phpThumb_generated_thumbnailjpg-1.jpg
 categories:
   - Social
   - Știri

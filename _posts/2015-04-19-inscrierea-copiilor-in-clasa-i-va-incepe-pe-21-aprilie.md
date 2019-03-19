@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3567
 permalink: /stiri/inscrierea-copiilor-in-clasa-i-va-incepe-pe-21-aprilie/
-image: /wp-content/uploads/2015/04/calendarul-inscrierii-in-clasa-pregatitoare-2015-si-in-clasa-I-a.jpg
+image: /costestitv/wp-content/uploads//2015/04/calendarul-inscrierii-in-clasa-pregatitoare-2015-si-in-clasa-I-a.jpg
 categories:
   - Social
   - Știri
@@ -19,4 +19,4 @@ Pe locurile rămase libere după prima etapă se vor putea înscrie, la solicita
 
 Districtele școlare, planul de înmatriculare și, respectiv, numărul de locuri vor fi afișate la fiecare instituție de învățămînt general, inclusiv pe site-ul acesteia, după caz, pe site-urile direcțiilor raionale/municipale de învățămînt.
 
-Textul integral al metodologiei cu privire la înscrierea copiilor în clasa I poate fi citit mai jos:[Ordinul_204](/wp-content/uploads/2015/04/Ordinul_204.pdf) [Ordin_202](/wp-content/uploads/2015/04/Ordin_202.pdf)
+Textul integral al metodologiei cu privire la înscrierea copiilor în clasa I poate fi citit mai jos:[Ordinul_204](/costestitv/wp-content/uploads//2015/04/Ordinul_204.pdf) [Ordin_202](/costestitv/wp-content/uploads//2015/04/Ordin_202.pdf)

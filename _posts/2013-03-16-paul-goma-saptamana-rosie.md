@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1316
 permalink: /carti-online/paul-goma-saptamana-rosie/
 original_post_id:
   - "1316"
-image: /wp-content/uploads/2013/03/saptamina-rosie.jpg
+image: /costestitv/wp-content/uploads//2013/03/saptamina-rosie.jpg
 categories:
   - Cărți
 ---

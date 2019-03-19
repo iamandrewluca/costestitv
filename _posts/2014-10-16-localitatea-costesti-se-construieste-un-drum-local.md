@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2635
 permalink: /stiri/localitatea-costesti-se-construieste-un-drum-local/
-image: /wp-content/uploads/2014/10/COSTESTI_REPARATIE_DRUM_2.jpg
+image: /costestitv/wp-content/uploads//2014/10/COSTESTI_REPARATIE_DRUM_2.jpg
 categories:
   - Social
   - Știri

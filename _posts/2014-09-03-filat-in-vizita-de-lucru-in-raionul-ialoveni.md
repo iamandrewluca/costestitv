@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2207
 permalink: /stiri/filat-in-vizita-de-lucru-in-raionul-ialoveni/
-image: /wp-content/uploads/2014/09/10646740_915273225169532_556204917352338668_n.jpg
+image: /costestitv/wp-content/uploads//2014/09/10646740_915273225169532_556204917352338668_n.jpg
 categories:
   - Social
   - Știri

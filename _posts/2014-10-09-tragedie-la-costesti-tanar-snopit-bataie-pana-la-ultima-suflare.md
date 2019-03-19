@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2551
 permalink: /stiri/tragedie-la-costesti-tanar-snopit-bataie-pana-la-ultima-suflare/
-image: /wp-content/uploads/2014/10/crima_80897900.jpg
+image: /costestitv/wp-content/uploads//2014/10/crima_80897900.jpg
 categories:
   - Social
   - Știri

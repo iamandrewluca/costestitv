@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3237
 permalink: /stiri/sanatatea-reproductiva-a-tinerilor/
-image: /wp-content/uploads/2014/12/10839711_742231819188226_1356125646_o.jpg
+image: /costestitv/wp-content/uploads//2014/12/10839711_742231819188226_1356125646_o.jpg
 categories:
   - Social
   - Știri

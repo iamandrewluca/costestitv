@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3190
 permalink: /stiri/in-atentia-tinerilor-din-raion/
-image: /wp-content/uploads/2014/10/Копия-ANUNT_IMPORTANT.jpg
+image: /costestitv/wp-content/uploads//2014/10/Копия-ANUNT_IMPORTANT.jpg
 categories:
   - Social
   - Știri

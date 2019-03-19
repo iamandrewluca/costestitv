@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3261
 permalink: /stiri/207-cetateni-nevoiasi-din-raion-vor-primi-ajutor-material/
-image: /wp-content/uploads/2014/12/ialovnei.jpg
+image: /costestitv/wp-content/uploads//2014/12/ialovnei.jpg
 categories:
   - Social
   - Știri

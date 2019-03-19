@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2811
 permalink: /stiri/intarirea-ordinei-de-zi-sedintei-consiliului-local-video/
-image: /wp-content/uploads/2014/10/DSC_0227.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0227.jpg
 categories:
   - Politică
   - Știri

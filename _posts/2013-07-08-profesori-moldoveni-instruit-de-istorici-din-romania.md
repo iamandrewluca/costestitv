@@ -14,7 +14,7 @@ categories:
   - Știri
 ---
 <p style="text-align:justify;">
-  <a href="http://costesti.tv/wp-content/uploads/2013/07/logo-actiunea-2012.jpg"><img alt="logo-actiunea-2012" class="alignleft size-full wp-image-1005" height="200" src="http://costesti.tv/wp-content/uploads/2013/07/logo-actiunea-2012.jpg" width="300" />​</a>Circa 30 de profesori din instituții de &icirc;nvățăm&acirc;nt preuniversitar din Republica Moldova vor fi instruiți de istorici din Rom&acirc;nia.&nbsp;Aceştia vor participa, &icirc;n perioada 8 &ndash; 11 iulie, la Bran, la cursuri de perfecţionare &icirc;n cadrul proiectului "Istoria de l&acirc;ngă noi".
+  <a href="http://costesti.tv/costestitv/wp-content/uploads//2013/07/logo-actiunea-2012.jpg"><img alt="logo-actiunea-2012" class="alignleft size-full wp-image-1005" height="200" src="http://costesti.tv/costestitv/wp-content/uploads//2013/07/logo-actiunea-2012.jpg" width="300" />​</a>Circa 30 de profesori din instituții de &icirc;nvățăm&acirc;nt preuniversitar din Republica Moldova vor fi instruiți de istorici din Rom&acirc;nia.&nbsp;Aceştia vor participa, &icirc;n perioada 8 &ndash; 11 iulie, la Bran, la cursuri de perfecţionare &icirc;n cadrul proiectului "Istoria de l&acirc;ngă noi".
 </p>
 
 <p style="text-align:justify;">

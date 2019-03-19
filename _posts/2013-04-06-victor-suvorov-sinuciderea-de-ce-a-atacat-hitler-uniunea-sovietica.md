@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1325
 permalink: /carti-online/victor-suvorov-sinuciderea-de-ce-a-atacat-hitler-uniunea-sovietica/
 original_post_id:
   - "1325"
-image: /wp-content/uploads/2013/04/sinuciderea.jpg
+image: /costestitv/wp-content/uploads//2013/04/sinuciderea.jpg
 categories:
   - Cărți
 format: image

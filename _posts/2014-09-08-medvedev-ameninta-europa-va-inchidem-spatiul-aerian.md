@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2268
 permalink: /stiri/medvedev-ameninta-europa-va-inchidem-spatiul-aerian/
-image: /wp-content/uploads/2014/09/646x404.jpg
+image: /costestitv/wp-content/uploads//2014/09/646x404.jpg
 categories:
   - Externe
   - Știri

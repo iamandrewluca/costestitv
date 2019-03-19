@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3140
 permalink: /stiri/primele-activitati-din-cadrul-proiectului-estono-moldav/
-image: /wp-content/uploads/2014/11/1497914_921020221261126_778692732033871465_o.jpg
+image: /costestitv/wp-content/uploads//2014/11/1497914_921020221261126_778692732033871465_o.jpg
 categories:
   - Politică
   - Social

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2289
 permalink: /stiri/olga-musteata-studenta-la-drept-avocatii-americani-sunt-oratori-excelenti/
-image: /wp-content/uploads/2014/09/10460506_733471586711644_7281107864543788158_n.jpg
+image: /costestitv/wp-content/uploads//2014/09/10460506_733471586711644_7281107864543788158_n.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3292
 permalink: /stiri/anul-nou-la-costesti-video/
-image: /wp-content/uploads/2014/12/mos.png
+image: /costestitv/wp-content/uploads//2014/12/mos.png
 categories:
   - Cultură
   - Divertisment

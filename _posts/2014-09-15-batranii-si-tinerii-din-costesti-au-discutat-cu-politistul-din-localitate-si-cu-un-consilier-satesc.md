@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2329
 permalink: /stiri/batranii-si-tinerii-din-costesti-au-discutat-cu-politistul-din-localitate-si-cu-un-consilier-satesc/
-image: /wp-content/uploads/2014/09/1-52a55f8f5a.jpg
+image: /costestitv/wp-content/uploads//2014/09/1-52a55f8f5a.jpg
 categories:
   - Social
   - Știri

@@ -6,14 +6,14 @@ author: Maria Bivol
 layout: post
 guid: http://costestitv.info/?p=3432
 permalink: /stiri/a-o-alternativa-instruita-in-cadrul-centrul-european-de-tineret/
-image: /wp-content/uploads/2015/02/11014912_824682864266209_9058638091415163322_n.jpg
+image: /costestitv/wp-content/uploads//2015/02/11014912_824682864266209_9058638091415163322_n.jpg
 categories:
   - Învățăminte
   - Social
   - Știri
 format: image
 ---
-[<img class="alignleft size-medium wp-image-3433" src="/wp-content/uploads/2015/02/11014912_824682864266209_9058638091415163322_n-300x169.jpg" alt="11014912_824682864266209_9058638091415163322_n" width="300" height="169" srcset="http://costestitv.ddev.local/wp-content/uploads/2015/02/11014912_824682864266209_9058638091415163322_n-300x169.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2015/02/11014912_824682864266209_9058638091415163322_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2015/02/11014912_824682864266209_9058638091415163322_n.jpg)Asociația Obștească Alternativa din satul Costești, raionul Ialoveni a participat în perioada  17-21 februarie la un seminar în cadrul Centrului European de Tineret din Strasbourg, Franța.
+[<img class="alignleft size-medium wp-image-3433" src="/costestitv/wp-content/uploads//2015/02/11014912_824682864266209_9058638091415163322_n-300x169.jpg" alt="11014912_824682864266209_9058638091415163322_n" width="300" height="169" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/11014912_824682864266209_9058638091415163322_n-300x169.jpg 300w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/11014912_824682864266209_9058638091415163322_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2015/02/11014912_824682864266209_9058638091415163322_n.jpg)Asociația Obștească Alternativa din satul Costești, raionul Ialoveni a participat în perioada  17-21 februarie la un seminar în cadrul Centrului European de Tineret din Strasbourg, Franța.
 
 ”Alternativa” a fost selectată prin intermediul unui concurs deschis pentru organizațiile înregistrate pe platforma EYF (European Youth Foundation) și care au conexiune cu dezvoltarea proiectelor  pentru tineri (scrierea proiectelor, implementare, raportare) unde au fost selectați 28 de organizații neguvernamentale, care activează la nivel local sau național.
 

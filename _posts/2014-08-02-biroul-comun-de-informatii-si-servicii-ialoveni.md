@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2106
 permalink: /stiri/biroul-comun-de-informatii-si-servicii-ialoveni/
-image: /wp-content/uploads/2014/08/BIROU.jpg
+image: /costestitv/wp-content/uploads//2014/08/BIROU.jpg
 categories:
   - Social
   - Știri

@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1305
 permalink: /carti-online/victor-suvorov-ziua-m/
 original_post_id:
   - "1305"
-image: /wp-content/uploads/2013/01/w.jpeg
+image: /costestitv/wp-content/uploads//2013/01/w.jpeg
 categories:
   - Cărți
 ---

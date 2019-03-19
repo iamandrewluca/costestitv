@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=635
 permalink: /istorie/personalitati/anatol-melnic/
 original_post_id:
   - "635"
-image: /wp-content/uploads/2013/01/46.jpg
+image: /costestitv/wp-content/uploads//2013/01/46.jpg
 categories:
   - Personalități
 ---

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2308
 permalink: /stiri/festivalul-folcloric-botna-video/
-image: /wp-content/uploads/2014/07/IMG_5523.jpg
+image: /costestitv/wp-content/uploads//2014/07/IMG_5523.jpg
 categories:
   - Cultură
   - Social

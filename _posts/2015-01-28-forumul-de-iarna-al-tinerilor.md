@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3337
 permalink: /stiri/forumul-de-iarna-al-tinerilor/
-image: /wp-content/uploads/2014/12/ialovnei.jpg
+image: /costestitv/wp-content/uploads//2014/12/ialovnei.jpg
 categories:
   - Social
   - Știri

@@ -14,7 +14,7 @@ categories:
   - Știri
 ---
 <p style="margin:.4em 0 .5em;line-height:19.1875px;font-family:sans-serif;font-size:13px;background-color:rgb(255,255,255);text-align:justify;">
-  <a href="http://costesti.tv/wp-content/uploads/2013/07/400px-Bsarabeni_Siberia_3.jpg">​</a>Operațiunea din 1949 a fost denumită conspirativ&nbsp;<a class="new" href="http://ro.wikipedia.org/w/index.php?title=Opera%C8%9Biunea_IUG&action=edit&redlink=1" style="text-decoration:none;color:rgb(165,88,88);background-image:none;background-position:initial initial;background-repeat:initial initial;" title="Operațiunea IUG — pagină inexistentă">IUG</a>&nbsp;(rom.&nbsp;<i>SUD</i>). Pe drept cuv&acirc;nt, evenimentul a fost catalogat ulterior drept "cea mai mare deportare a populației basarabene".
+  <a href="http://costesti.tv/costestitv/wp-content/uploads//2013/07/400px-Bsarabeni_Siberia_3.jpg">​</a>Operațiunea din 1949 a fost denumită conspirativ&nbsp;<a class="new" href="http://ro.wikipedia.org/w/index.php?title=Opera%C8%9Biunea_IUG&action=edit&redlink=1" style="text-decoration:none;color:rgb(165,88,88);background-image:none;background-position:initial initial;background-repeat:initial initial;" title="Operațiunea IUG — pagină inexistentă">IUG</a>&nbsp;(rom.&nbsp;<i>SUD</i>). Pe drept cuv&acirc;nt, evenimentul a fost catalogat ulterior drept "cea mai mare deportare a populației basarabene".
 </p>
 
 <p style="margin:.4em 0 .5em;line-height:19.1875px;font-family:sans-serif;font-size:13px;background-color:rgb(255,255,255);text-align:justify;">

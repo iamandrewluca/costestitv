@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3305
 permalink: /stiri/sedinta-comisiei-pentru-situatii-exceptionale/
-image: /wp-content/uploads/2015/01/23122014_5.jpg
+image: /costestitv/wp-content/uploads//2015/01/23122014_5.jpg
 categories:
   - Social
   - Știri

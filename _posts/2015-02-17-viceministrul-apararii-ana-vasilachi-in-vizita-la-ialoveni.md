@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3411
 permalink: /stiri/viceministrul-apararii-ana-vasilachi-in-vizita-la-ialoveni/
-image: /wp-content/uploads/2015/02/17022015.jpg
+image: /costestitv/wp-content/uploads//2015/02/17022015.jpg
 categories:
   - Social
   - Știri

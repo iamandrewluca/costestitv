@@ -6,7 +6,7 @@ author: Maria Bivol
 layout: post
 guid: http://costestitv.info/?p=3451
 permalink: /galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/
-image: /wp-content/uploads/2015/03/4.jpg
+image: /costestitv/wp-content/uploads//2015/03/4.jpg
 categories:
   - Galerie
   - Învățăminte
@@ -14,7 +14,7 @@ categories:
   - Știri
 format: image
 ---
-[<img class="alignleft size-medium wp-image-3452" src="/wp-content/uploads/2015/03/4-300x225.jpg" alt="4" width="300" height="225" srcset="http://costestitv.ddev.local/wp-content/uploads/2015/03/4-300x225.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2015/03/4.jpg 1024w, http://costestitv.ddev.local/wp-content/uploads/2015/03/4-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2015/03/4.jpg)Sîmbătă, 7 martie, A.O. Alternativa a dat startul instruirii unei noi echipe de educatori de la egal la egal di raionul Ialoveni.
+[<img class="alignleft size-medium wp-image-3452" src="/costestitv/wp-content/uploads//2015/03/4-300x225.jpg" alt="4" width="300" height="225" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/4-300x225.jpg 300w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/4.jpg 1024w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/4-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2015/03/4.jpg)Sîmbătă, 7 martie, A.O. Alternativa a dat startul instruirii unei noi echipe de educatori de la egal la egal di raionul Ialoveni.
 
 Astfel, 15 tineri din diferite sate, au fost selectați în urma depunerii scrisorii de intenții și a CV-ului, iar prima instruire a avut loc în incinta CSPT Avante din satul Costești.
 
@@ -30,38 +30,38 @@ Seria de training-uri va continua pe întreaga lună martie, iar la final, tiner
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/3-3/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/3-3/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/8-3/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/8-3/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/16/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/16-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/16/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/16-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/19/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/19-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/19/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/19-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/22-2/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/22-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/22-2/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/22-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/31/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/31-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/31/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/31-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/33/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/33-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/33/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/33-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/37/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/37-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/37/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/37-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/inregistrarea/'><img width="150" height="150" src="http://costestitv.ddev.local/wp-content/uploads/2015/03/inregistrarea-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='http://costestitv.ddev.local/galerie/in-costesti-s-a-dat-start-instruirii-instruirii-unei-retele-regionale-de-educatori-de-la-egal-la-egal/attachment/inregistrarea/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/03/inregistrarea-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

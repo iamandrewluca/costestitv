@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2835
 permalink: /stiri/discursul-de-fier-al-lidiei-terinte-video/
-image: /wp-content/uploads/2014/10/Under_18_Badge1.jpg
+image: /costestitv/wp-content/uploads//2014/10/Under_18_Badge1.jpg
 categories:
   - Politică
   - Social

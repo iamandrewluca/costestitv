@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2292
 permalink: /stiri/doi-tineri-judecati-pentru-colaborare-cu-servicii-secrete-straine-in-scop-terorist/
-image: /wp-content/uploads/2014/09/big-doi-tineri-judecati-pentru-colaborare-cu-servicii-secrete-straine-in-scop-terorist.jpg
+image: /costestitv/wp-content/uploads//2014/09/big-doi-tineri-judecati-pentru-colaborare-cu-servicii-secrete-straine-in-scop-terorist.jpg
 categories:
   - Social
   - Știri

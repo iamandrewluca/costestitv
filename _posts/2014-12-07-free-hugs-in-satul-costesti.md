@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3225
 permalink: /stiri/free-hugs-in-satul-costesti/
-image: /wp-content/uploads/2014/12/10849438_740810602663681_1459023292_o.jpg
+image: /costestitv/wp-content/uploads//2014/12/10849438_740810602663681_1459023292_o.jpg
 categories:
   - Social
   - Știri

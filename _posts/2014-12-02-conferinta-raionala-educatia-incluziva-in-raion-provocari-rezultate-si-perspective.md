@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3192
 permalink: /stiri/conferinta-raionala-educatia-incluziva-in-raion-provocari-rezultate-si-perspective/
-image: /wp-content/uploads/2014/12/25112014_1.jpg
+image: /costestitv/wp-content/uploads//2014/12/25112014_1.jpg
 categories:
   - Social
   - Știri

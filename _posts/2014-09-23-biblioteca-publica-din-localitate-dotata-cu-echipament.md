@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2423
 permalink: /stiri/biblioteca-publica-din-localitate-dotata-cu-echipament/
-image: /wp-content/uploads/2014/09/1052949_471493519655058_2214124858252594148_o.jpg
+image: /costestitv/wp-content/uploads//2014/09/1052949_471493519655058_2214124858252594148_o.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2519
 permalink: /stiri/darea-exploatare-stadionului-liceul-teoretic-costesti/
-image: /wp-content/uploads/2014/10/10333821_716843875065208_8145488005169526534_o.jpg
+image: /costestitv/wp-content/uploads//2014/10/10333821_716843875065208_8145488005169526534_o.jpg
 categories:
   - Politică
   - Social

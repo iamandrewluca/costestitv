@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3547
 permalink: /stiri/inundatii-in-satul-costesti-din-raionul-ialoveni/
-image: /wp-content/uploads/2015/04/11133939_644239172345026_5331042881592229048_n.jpg
+image: /costestitv/wp-content/uploads//2015/04/11133939_644239172345026_5331042881592229048_n.jpg
 categories:
   - Social
   - Știri

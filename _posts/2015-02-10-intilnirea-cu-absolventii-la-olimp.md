@@ -6,7 +6,7 @@ author: Lena Birca
 layout: post
 guid: http://costestitv.info/?p=3368
 permalink: /stiri/intilnirea-cu-absolventii-la-olimp/
-image: /wp-content/uploads/2015/02/10966832_778092552268819_642569431_n.jpg
+image: /costestitv/wp-content/uploads//2015/02/10966832_778092552268819_642569431_n.jpg
 categories:
   - Social
   - Știri

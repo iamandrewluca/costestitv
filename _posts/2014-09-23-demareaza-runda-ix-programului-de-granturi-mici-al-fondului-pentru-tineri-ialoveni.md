@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2426
 permalink: /stiri/demareaza-runda-ix-programului-de-granturi-mici-al-fondului-pentru-tineri-ialoveni/
-image: /wp-content/uploads/2014/09/22092014_3-1.jpg
+image: /costestitv/wp-content/uploads//2014/09/22092014_3-1.jpg
 categories:
   - Social
   - Știri

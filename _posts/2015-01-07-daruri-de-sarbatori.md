@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3309
 permalink: /stiri/daruri-de-sarbatori/
-image: /wp-content/uploads/2015/01/27122014_4.jpg
+image: /costestitv/wp-content/uploads//2015/01/27122014_4.jpg
 categories:
   - Social
   - Știri

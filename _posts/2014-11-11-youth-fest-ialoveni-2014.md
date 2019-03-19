@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3125
 permalink: /stiri/youth-fest-ialoveni-2014/
-image: /wp-content/uploads/2014/11/yf-logo3.jpg
+image: /costestitv/wp-content/uploads//2014/11/yf-logo3.jpg
 categories:
   - Social
   - Știri

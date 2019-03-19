@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2513
 permalink: /stiri/6-costesteni-pe-listele-electorale-ale-partidului-comunist-reformator/
-image: /wp-content/uploads/2014/10/e-oficial-mj-a-inregistrat-partidul-comunist-reformator-din-moldova-1403525731.jpg
+image: /costestitv/wp-content/uploads//2014/10/e-oficial-mj-a-inregistrat-partidul-comunist-reformator-din-moldova-1403525731.jpg
 categories:
   - Politică
   - Știri

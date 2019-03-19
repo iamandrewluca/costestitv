@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2084
 permalink: /stiri/comisia-pentru-situatii-exceptionale-a-raionului-s-a-intrunit-in-sedinta/
-image: /wp-content/uploads/2014/07/Без-имени.jpg
+image: /costestitv/wp-content/uploads//2014/07/Без-имени.jpg
 categories:
   - Social
   - Știri

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2848
 permalink: /stiri/consiliul-stabilit-pretul-la-apa-potabila/
-image: /wp-content/uploads/2014/10/apa-1396422096.jpg
+image: /costestitv/wp-content/uploads//2014/10/apa-1396422096.jpg
 categories:
   - Politică
   - Social

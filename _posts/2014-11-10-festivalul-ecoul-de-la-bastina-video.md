@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3115
 permalink: /stiri/festivalul-ecoul-de-la-bastina-video/
-image: /wp-content/uploads/2014/11/DSC_1610.jpg
+image: /costestitv/wp-content/uploads//2014/11/DSC_1610.jpg
 categories:
   - Cultură
   - Social
@@ -18,6 +18,6 @@ La eveniment au participat 16 concurenţi. Potrivit regulamentului concursului, 
 
 La final însă locul I a fost ocupat de către luat de  Malanca Evelina, care a evoluat cu două piese în limba engleză și franceză, fapt pentru care de fapt a încălcat regulile concursului.
 
-[<img class="alignnone size-medium wp-image-3117" src="/wp-content/uploads/2014/11/10799673_491038707705521_1544185696_n-231x300.jpg" alt="10799673_491038707705521_1544185696_n" width="231" height="300" srcset="http://costestitv.ddev.local/wp-content/uploads/2014/11/10799673_491038707705521_1544185696_n-231x300.jpg 231w, http://costestitv.ddev.local/wp-content/uploads/2014/11/10799673_491038707705521_1544185696_n.jpg 742w" sizes="(max-width: 231px) 100vw, 231px" />](/wp-content/uploads/2014/11/10799673_491038707705521_1544185696_n.jpg)Click pentru MĂRIRE
+[<img class="alignnone size-medium wp-image-3117" src="/costestitv/wp-content/uploads//2014/11/10799673_491038707705521_1544185696_n-231x300.jpg" alt="10799673_491038707705521_1544185696_n" width="231" height="300" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/11/10799673_491038707705521_1544185696_n-231x300.jpg 231w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/11/10799673_491038707705521_1544185696_n.jpg 742w" sizes="(max-width: 231px) 100vw, 231px" />](/costestitv/wp-content/uploads//2014/11/10799673_491038707705521_1544185696_n.jpg)Click pentru MĂRIRE
 
 .

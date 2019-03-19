@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3134
 permalink: /stiri/investitii-de-15-mil-lei-in-biblioecile-publice-ale-raionului-prin-programu-novoteca/
-image: /wp-content/uploads/2014/11/DSC_0193.jpg
+image: /costestitv/wp-content/uploads//2014/11/DSC_0193.jpg
 categories:
   - Social
   - Știri

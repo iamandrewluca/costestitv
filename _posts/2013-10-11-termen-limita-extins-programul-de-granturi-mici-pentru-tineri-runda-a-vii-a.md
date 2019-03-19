@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1641
 permalink: /stiri/termen-limita-extins-programul-de-granturi-mici-pentru-tineri-runda-a-vii-a/
 original_post_id:
   - "1641"
-image: /wp-content/uploads/2013/10/122.jpeg
+image: /costestitv/wp-content/uploads//2013/10/122.jpeg
 categories:
   - Social
   - Știri

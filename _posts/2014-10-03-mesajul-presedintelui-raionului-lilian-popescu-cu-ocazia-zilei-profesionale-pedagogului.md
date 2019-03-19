@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2482
 permalink: /stiri/mesajul-presedintelui-raionului-lilian-popescu-cu-ocazia-zilei-profesionale-pedagogului/
-image: /wp-content/uploads/2014/10/FOTO_PRESEDINTE_POPESCU.jpg
+image: /costestitv/wp-content/uploads//2014/10/FOTO_PRESEDINTE_POPESCU.jpg
 categories:
   - Social
   - Știri

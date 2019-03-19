@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=3405
 permalink: /stiri/membrii-grupului-de-lucru-apsan-s-au-intrunit-in-sedinta/
-image: /wp-content/uploads/2015/02/12022015_1.jpg
+image: /costestitv/wp-content/uploads//2015/02/12022015_1.jpg
 categories:
   - Social
   - Știri

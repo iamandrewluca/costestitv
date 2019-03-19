@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2563
 permalink: /stiri/vizita-presedintelui-euroregiunii-nistru-la-ialoveni/
-image: /wp-content/uploads/2014/10/EUROREGIUNEA_NISTRU.jpg
+image: /costestitv/wp-content/uploads//2014/10/EUROREGIUNEA_NISTRU.jpg
 categories:
   - Social
   - Știri

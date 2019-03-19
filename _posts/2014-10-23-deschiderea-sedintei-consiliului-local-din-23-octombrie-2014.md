@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2779
 permalink: /stiri/deschiderea-sedintei-consiliului-local-din-23-octombrie-2014/
-image: /wp-content/uploads/2014/10/DSC_0229.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0229.jpg
 categories:
   - Politică
   - Știri

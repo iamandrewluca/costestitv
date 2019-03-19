@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1393
 permalink: /carti-online/ion-liviu-rebreanu/
 original_post_id:
   - "1393"
-image: /wp-content/uploads/2013/04/3343.jpg
+image: /costestitv/wp-content/uploads//2013/04/3343.jpg
 categories:
   - Cărți
 format: image

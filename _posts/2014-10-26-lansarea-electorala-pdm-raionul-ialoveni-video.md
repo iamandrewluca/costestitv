@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2856
 permalink: /stiri/lansarea-electorala-pdm-raionul-ialoveni-video/
-image: /wp-content/uploads/2014/10/DSC_0408.jpg
+image: /costestitv/wp-content/uploads//2014/10/DSC_0408.jpg
 categories:
   - Electorala 2014
   - Politică

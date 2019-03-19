@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2974
 permalink: /stiri/un-costestean-retinut-fiind-suspectat-ca-a-asasinat-un-consatean/
-image: /wp-content/uploads/2014/11/retinut-1322427838.jpg
+image: /costestitv/wp-content/uploads//2014/11/retinut-1322427838.jpg
 categories:
   - Social
   - Știri

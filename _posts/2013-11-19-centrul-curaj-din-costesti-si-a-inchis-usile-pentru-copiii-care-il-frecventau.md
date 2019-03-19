@@ -8,7 +8,7 @@ guid: http://costesti.tv/?p=1762
 permalink: /stiri/centrul-curaj-din-costesti-si-a-inchis-usile-pentru-copiii-care-il-frecventau/
 original_post_id:
   - "1762"
-image: /wp-content/uploads/2013/11/phpThumb_generated_thumbnailjpg-2.jpg
+image: /costestitv/wp-content/uploads//2013/11/phpThumb_generated_thumbnailjpg-2.jpg
 categories:
   - Social
   - Știri
