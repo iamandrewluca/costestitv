@@ -1,0 +1,36 @@
+---
+id: 2467
+title: AO Alternativa invită raionul Ialoveni de a se implica în Săptămîna Națională a Voluntariatului
+date: 2014-10-02T13:09:11+03:00
+author: Maria Bivol
+layout: post
+guid: http://costestitv.info/?p=2467
+permalink: /stiri/ao-alternativa-invita-la-saptamina-nationala-voluntariatului/
+image: /wp-content/uploads/2014/10/voluntariat.png
+categories:
+  - Social
+  - Știri
+---
+**  
+Asociaţia obştească „Tinerii pentru dreptul la viata” (TDV)** care activează în calitate de **Secretariat al Coaliţiei pentru promovarea legii şi activităţilor de voluntariat****(Coaliţia Voluntariat)** va organiza împreună cu organizaţiile membre şi partenere ale**Coaliţiei Voluntariat**, în perioada 19 – 26 octombrie 2014, **Săptămâna Na****ț****ională a Voluntariatului (SNV) 2014 “Hai în gaşca voluntarilor!”,** **edi****ț****ia a VIII-a.**<!--more-->
+
+**SNV** este cel mai mare eveniment naţional anual de promovare a voluntariatului care mobilizează cât mai multe organizaţii şi voluntari pentru a promova voluntariatul şi implicarea civică a comunităţii. Pe parcursul a 8 zile se realizează – cu implicarea activă a cetăţenilor, mass-mediei, business-ului, persoanelor publice, autorităţilor locale şi centrale etc. – campanii de sensibilizare, dezbateri pe domeniul voluntariat, acţiuni de binefacere, acţiuni de salubrizare, şezători, acţiuni de sănătate etc.
+
+Evenimentul se desfăşoară în toate raioanele şi municipiile din Republica Moldova, dar în această ediţie în mod special se va lucra în 10 raioane care au fost selectate pe bază de concurs. Lista persoanelor, cu datele de contact, care vor deţine poziţia de**Coordonator Raional SNV 2014** din aceste raioane sunt:
+
+  1. **Coordonator Raional SNV Ialoven**i, _Maria BIVOL_, Preşedinte AO Alternativa, [ngo.alternativa@yahoo.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/ngo.alternativa@yahoo.com), tel. 069 512 370
+  2. **Coordonator Raional SNV Soroca_,_** _Stela BABICI_, Director Executiv, Centru de Resurse pentru Tineret “Dacia”, [stela.babici@yahoo.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/babici@yahoo.com), tel. 068 338 284
+  3. **Coordonator Raional SNV** **Făleşti**, _Eugeniu GRAUR,_ Director Executiv, AO „Certitudine”, [geugenius@yahoo.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/geugenius@yahoo.com), tel. 079 999 533
+  4. **Coordonator Raional SNV Rezina,** _Liuba STAVINSCHI,_ AO „Nufărul”,[Istavinschi@mail.ru](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/Istavinschi@mail.ru), tel. 079 779 411
+  5. **Coordonator Raional SNV Străşeni,** _Petru BOTNARU,_ Director Executiv NGO „Terra 1530”,[petru.botnaru@terra1530.md](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/petru.botnaru@terra1530.md), tel. 069 126 480
+  6. **Coordonator Raional SNV Orhei,** _Svetlana TARAS,_ Centrul de Sănătate Prietenos Tinerilor Orhei, [staras.irp@gmail.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/staras.irp@gmail.com), tel. 069 957 700
+  7. **Coordonator Raional SNV Hînceşti,** _Valentina GAK,_ Agentia pentru Cooperare, Inovare si Dezvoltare ,,START,,  [valentinagak@yahoo.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/staras.irp@gmail.com) , tel. 068899798
+  8. **Coordonator Raional SNV Criuleni,** _Victor Vasili CIUTAC_, Centrul de Resurse pentru Educaţia Incluzivă, [victorciutac@gmail.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/victorciutac@gmail.com), 068 860 603
+  9. **Coordonator Raional SNV Căuşeni,** _Vera CIUCHITU,_ Şef serviciu resurse şi asigurarea durabilităţii investiţiilor în aparatul preşedintelui raionului Căuşeni,[v_ciuchitu@yahoo.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/v_ciuchitu@yahoo.com), tel. 069 086 731
+ 10. **Coordonator Raional SNV Şoldăneşti,** _Petru CLIOFOS,_ Grupul de iniţiativă „Înger invizibil”, [petrucliofos@mail.ru](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/petrucliofos@mail.ru), tel. 069 025 182
+
+Invităm autorităţile publice locale şi centrale, instituţiile publice necomerciale, organizaţiile societăţii civile, business-ul responsabili social, mass-media locală si naţională din raioanele menționate anterior să se implice în cadrul evenimentului şi să descarce [formular-de-participare-snv-2014 (1)](http://costestitv.info/wp-content/uploads/2014/10/formular-de-participare-snv-2014-1.docx), să-l completeze şi să-l trimită până la data de **5 octombrie** pe adresa Coordonatorul Raional din raionul respectiv pentru a include activitatea sau activităţile în draftul **Calendarului de activităţi raionale SNV 2014** care va fi prezentat mass mediei raionale şi locale, sau până pe data de **12 octombrie** când calendarul va fi finalizat. Rugăm actorii interesaţi din celelalte raioane şi organizaţiile instruite in Polonia care vor desfăşura activităţi de voluntariat în domeniul sănătăţii în şcoli, să trimită formularul de mai sus pînă pe data de **15 octombrie** pe adresa [tdv_secretariat@yahoo.com](http://tdvmoldova.wordpress.com/2014/09/25/invitatie-de-implicare-in-saptamana-nationala-a-voluntariatului-snv-2014/tdv_secretariat@yahoo.com).
+
+Va informăm că toate activităţile planificate la nivel naţional vor fi incluse în **Calendarul de activitaţi SNV 2014** care va fi prezentat mass mediei naţionale începând cu data de**17 octombrie**. După încheierea evenimentului se va elabora **Raportul SNV 2014** care va cuprinde descrierea narativă şi financiară a evenimentului. Acest raport şi fotografiile de la activităţi vor fi postate pe site-urile organizaţiilor participante.
+
+**SNV 2014** se desfăşoară în cadrul proiectului **TDV** „_Consolidarea resurselor umane_ _ș__i financiare pentru dezvoltarea sectorului societă__ț__ii civile din Republica Moldova implicat în activită__ț__i de voluntariat_” susţinut de **Agenţia SUA** **pentru Dezvoltare Internaţională (USAID)**, în cadrul Programului Consolidarea Societăţii Civile în Moldova, implementat de **FHI** **360**. Evenimentul se desfăşoară şi în cadrul proiectului „_Promovarea voluntariatului prin extinderea activităţilor de voluntariat în rândul tinerilor_” finanţat de**Ministerul Tineretului şi Sportului al Republicii Moldova** şi al proiectului „_Voluntariatul – cheia schimbării sociale în Republica Moldova_” implementat de **TDV** în parteneriat cu **Fundaţia pentru Educaţia şi Dezvoltarea Societăţii Civile (FERSO)**din Polonia cu suportul financiar al Programului „_Region in Transition RITA_” ca iniţiativă a **Polish-American Freedom Foundation**.
