@@ -17,10 +17,10 @@ url: http://costestitv.info
 name: Costestitv.info
 description: Un sat informat este un sat dezvoltat
 email: thendrluca@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/costestitv" # the subpath of your site, e.g. /blog
+url: "https://iamandrewluca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamandrewluca
-github_username:  iamandrewluca
+github_username: iamandrewluca
 
 # Build settings
 markdown: kramdown
