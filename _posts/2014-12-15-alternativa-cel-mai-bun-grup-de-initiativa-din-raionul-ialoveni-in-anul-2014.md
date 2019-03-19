@@ -11,7 +11,7 @@ categories:
   - Cultură
   - Știri
 ---
-[<img class="alignleft size-medium wp-image-3241" src="http://costestitv.info/wp-content/uploads/2014/12/echipa-premiata-300x225.jpg" alt="echipa premiata" width="300" height="225" srcset="http://costestitv.ddev.local/wp-content/uploads/2014/12/echipa-premiata-300x225.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2014/12/echipa-premiata-45x35.jpg 45w, http://costestitv.ddev.local/wp-content/uploads/2014/12/echipa-premiata.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://costestitv.info/wp-content/uploads/2014/12/echipa-premiata.jpg)Duminică, 14 decembrie,în incinta Casei de Cultură Ialoveni, a avut loc Festivalul Tinerilor Activi, 2014.
+[<img class="alignleft size-medium wp-image-3241" src="/wp-content/uploads/2014/12/echipa-premiata-300x225.jpg" alt="echipa premiata" width="300" height="225" srcset="http://costestitv.ddev.local/wp-content/uploads/2014/12/echipa-premiata-300x225.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2014/12/echipa-premiata-45x35.jpg 45w, http://costestitv.ddev.local/wp-content/uploads/2014/12/echipa-premiata.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2014/12/echipa-premiata.jpg)Duminică, 14 decembrie,în incinta Casei de Cultură Ialoveni, a avut loc Festivalul Tinerilor Activi, 2014.
 
 În cadrul evenimentulul-concurs au participat cei mai activi tineri din raionul Ialoveni, la diferite categorii, precum: Cel mai activ tinăr voluntar al anului, Cel mai activ Consiliu de Tineret, Cel mai bun jurnalist, etc.
 

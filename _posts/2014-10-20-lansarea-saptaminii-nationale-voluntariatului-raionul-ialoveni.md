@@ -19,7 +19,7 @@ Astfel, voluntarii au dus la domiciliu pachetul, au vorbit cu fiecare bătrîn, 
 
 Beneficiarii au mulțumit pînă la lacrimi voluntarilor și donatorilor pentru suportul primit și pentru că nu au uitat toți de ei.
 
-Săptămîna Națională a Voluntariatului în raionul Ialoveni continuă cu seminare, ore informative, acțiuni de salubrizare, donații, ș.a. Daca dorești să te implici și tu , vezi [AO\_Alternativa\_Ialoveni_Calendar de activitati raional SNV 2014 (1) (Автосохраненный)](http://costestitv.info/wp-content/uploads/2014/10/AO_Alternativa_Ialoveni_Calendar-de-activitati-raional-SNV-2014-1-Автосохраненный.docx) și te poți alătura!
+Săptămîna Națională a Voluntariatului în raionul Ialoveni continuă cu seminare, ore informative, acțiuni de salubrizare, donații, ș.a. Daca dorești să te implici și tu , vezi [AO\_Alternativa\_Ialoveni_Calendar de activitati raional SNV 2014 (1) (Автосохраненный)](/wp-content/uploads/2014/10/AO_Alternativa_Ialoveni_Calendar-de-activitati-raional-SNV-2014-1-Автосохраненный.docx) și te poți alătura!
 
 <div id='gallery-9' class='gallery galleryid-2714 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 

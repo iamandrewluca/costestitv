@@ -24,7 +24,7 @@ Astfel, în şedinţa de astăzi, consilierii raionali au decis să lase lucruri
 
 &nbsp;
 
-Sursa <a href="http://ialovenionline.md" target="_blank">Ialovenionline</a>[<img class="alignleft wp-image-2296" src="http://costestitv.info/wp-content/uploads/2014/09/phpThumb_generated_thumbnailjpg-6.jpg" alt="phpThumb_generated_thumbnailjpg (6)" width="309" height="437" />](http://costestitv.info/wp-content/uploads/2014/09/phpThumb_generated_thumbnailjpg-6.jpg)
+Sursa <a href="http://ialovenionline.md" target="_blank">Ialovenionline</a>[<img class="alignleft wp-image-2296" src="/wp-content/uploads/2014/09/phpThumb_generated_thumbnailjpg-6.jpg" alt="phpThumb_generated_thumbnailjpg (6)" width="309" height="437" />](/wp-content/uploads/2014/09/phpThumb_generated_thumbnailjpg-6.jpg)
 
 &nbsp;
 

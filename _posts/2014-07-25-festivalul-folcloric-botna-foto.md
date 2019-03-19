@@ -11,4 +11,4 @@ categories:
   - Cultură
   - Știri
 ---
-[<!--more--><img class="alignnone size-medium wp-image-2073" src="http://costestitv.info/wp-content/uploads/2014/07/DSC_0136-300x200.jpg" alt="DSC_0136" width="300" height="200" srcset="http://costestitv.ddev.local/wp-content/uploads/2014/07/DSC_0136-300x200.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2014/07/DSC_0136-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.facebook.com/media/set/?set=a.696948190378043.1073741848.350616745011191&type=3&uploaded=215)
+[<!--more--><img class="alignnone size-medium wp-image-2073" src="/wp-content/uploads/2014/07/DSC_0136-300x200.jpg" alt="DSC_0136" width="300" height="200" srcset="http://costestitv.ddev.local/wp-content/uploads/2014/07/DSC_0136-300x200.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2014/07/DSC_0136-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.facebook.com/media/set/?set=a.696948190378043.1073741848.350616745011191&type=3&uploaded=215)

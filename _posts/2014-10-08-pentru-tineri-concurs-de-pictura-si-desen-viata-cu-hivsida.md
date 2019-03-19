@@ -16,7 +16,7 @@ Asociația Obștească Alternativa în colaborare cu Rețeaua Națională Y-PEER
 
 **         ** Concursul  are drept scop sensibilizarea comunităţii privind atitudinea asupra persoanelor care trăiesc cu virusul HIV, combaterea şi prevenirea acestuia şi promovarea toleranţii faţă de victimile HIV/SIDA.
 
-Dacă ai vîrsta cuprinsă între 14 și 20 de ani și ești creativ, te invităm să participi la concurs, accesind [Regulament\_concurs\_de_pictura](http://costestitv.info/wp-content/uploads/2014/10/Regulament_concurs_de_pictura.docx)
+Dacă ai vîrsta cuprinsă între 14 și 20 de ani și ești creativ, te invităm să participi la concurs, accesind [Regulament\_concurs\_de_pictura](/wp-content/uploads/2014/10/Regulament_concurs_de_pictura.docx)
 
 **_           _** 
 

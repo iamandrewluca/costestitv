@@ -14,7 +14,7 @@ categories:
   - Știri
 format: image
 ---
-[<img class="alignleft size-medium wp-image-3452" src="http://costestitv.info/wp-content/uploads/2015/03/4-300x225.jpg" alt="4" width="300" height="225" srcset="http://costestitv.ddev.local/wp-content/uploads/2015/03/4-300x225.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2015/03/4.jpg 1024w, http://costestitv.ddev.local/wp-content/uploads/2015/03/4-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](http://costestitv.info/wp-content/uploads/2015/03/4.jpg)Sîmbătă, 7 martie, A.O. Alternativa a dat startul instruirii unei noi echipe de educatori de la egal la egal di raionul Ialoveni.
+[<img class="alignleft size-medium wp-image-3452" src="/wp-content/uploads/2015/03/4-300x225.jpg" alt="4" width="300" height="225" srcset="http://costestitv.ddev.local/wp-content/uploads/2015/03/4-300x225.jpg 300w, http://costestitv.ddev.local/wp-content/uploads/2015/03/4.jpg 1024w, http://costestitv.ddev.local/wp-content/uploads/2015/03/4-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2015/03/4.jpg)Sîmbătă, 7 martie, A.O. Alternativa a dat startul instruirii unei noi echipe de educatori de la egal la egal di raionul Ialoveni.
 
 Astfel, 15 tineri din diferite sate, au fost selectați în urma depunerii scrisorii de intenții și a CV-ului, iar prima instruire a avut loc în incinta CSPT Avante din satul Costești.
 
