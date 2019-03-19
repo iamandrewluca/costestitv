@@ -26,26 +26,26 @@ Acest proiect a fost cîştigat în runda a IX-a de Granturi Mici pentru Tineri,
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/implicare/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/implicare-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/implicare/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/implicare-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/lansare-a-proiectului/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/lansare-a-proiectului-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/lansare-a-proiectului/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/lansare-a-proiectului-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/p1280511/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/P1280511-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/p1280511/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1280511-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/tineri-3/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/tineri2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/tineri-3/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/tineri2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/tineri3/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/tineri3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/tineri3/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/tineri3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/tinerii-2/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/tinerii1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/s-lansat-proiectul-lansarea-proiectului-dragule-meleagule-frumosul-meu-costesti/attachment/tinerii-2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/tinerii1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

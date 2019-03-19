@@ -12,7 +12,7 @@ categories:
   - Social
   - Știri
 ---
-[<img class="alignleft size-medium wp-image-3210" src="/costestitv/wp-content/uploads//2014/12/P1290666-300x225.jpg" alt="P1290666" width="300" height="225" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/12/P1290666-300x225.jpg 300w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/12/P1290666-45x35.jpg 45w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/12/P1290666.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2014/12/P1290666.jpg)Prima Conferință Națională în Sănătatea Adolescenților a fost organizată la Chișinău. Timp de două zile Asociația „Sănătate pentru Tineri” și Centrul de resurse la nivel național în serviciile prietenoase tinerilor „Neovita” și-au propus să pună în valoare sănătatea tinerilor. La acest eveniment au participat și specialiștii Centrului de Sănătate Prietenos Tinerilor Avante si A.O. Alternativa din satul Costești, cît și voluntarii instituțiilor. CSPT Avante a avut  alături de întreaga rețea de centre prietenoase tinerilor o expoziție a activităților care le realizează, serviciile oferite și fotografiile care relevă obiectivele acestuia.
+[<img class="alignleft size-medium wp-image-3210" src="/costestitv/wp-content/uploads//2014/12/P1290666-300x225.jpg" alt="P1290666" width="300" height="225" srcset="/costestitv/wp-content/uploads//2014/12/P1290666-300x225.jpg 300w, /costestitv/wp-content/uploads//2014/12/P1290666-45x35.jpg 45w, /costestitv/wp-content/uploads//2014/12/P1290666.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2014/12/P1290666.jpg)Prima Conferință Națională în Sănătatea Adolescenților a fost organizată la Chișinău. Timp de două zile Asociația „Sănătate pentru Tineri” și Centrul de resurse la nivel național în serviciile prietenoase tinerilor „Neovita” și-au propus să pună în valoare sănătatea tinerilor. La acest eveniment au participat și specialiștii Centrului de Sănătate Prietenos Tinerilor Avante si A.O. Alternativa din satul Costești, cît și voluntarii instituțiilor. CSPT Avante a avut  alături de întreaga rețea de centre prietenoase tinerilor o expoziție a activităților care le realizează, serviciile oferite și fotografiile care relevă obiectivele acestuia.
 
 Pe parcursul celor 2 zile de lucru s-au desfășurat sesiuni plenare, „mese rotunde”, ateliere și seminare tematice privind dezvoltarea și sănătatea adolescenților. Astfel, temele abordate vizează funcționarea durabilă a serviciilor de sănătate prietenoase tinerilor, rolul voluntariatului, participarea tinerilor în promovarea sănătății, educația sexuală, dependența, violența și suicidul, comunicarea cu adolescenții, comportamentul de sănătate printre adolescenți.
 
@@ -24,14 +24,14 @@ La eveniment au mai participat specialiști din centrele de sănătate prieteno
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cspt-avante-la-prima-conferinta-despre-sanatatea-adolescentilor/attachment/concluzie-problema-sanatatii-adolescentilor-trebuie-abordata-sistemic/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/12/concluzie-problema-sanatatii-adolescentilor-trebuie-abordata-sistemic-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/cspt-avante-la-prima-conferinta-despre-sanatatea-adolescentilor/attachment/concluzie-problema-sanatatii-adolescentilor-trebuie-abordata-sistemic/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/concluzie-problema-sanatatii-adolescentilor-trebuie-abordata-sistemic-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cspt-avante-la-prima-conferinta-despre-sanatatea-adolescentilor/attachment/p1290686/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/12/P1290686-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/cspt-avante-la-prima-conferinta-despre-sanatatea-adolescentilor/attachment/p1290686/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/P1290686-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/stiri/cspt-avante-la-prima-conferinta-despre-sanatatea-adolescentilor/attachment/p1290712/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/12/P1290712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/cspt-avante-la-prima-conferinta-despre-sanatatea-adolescentilor/attachment/p1290712/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/P1290712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

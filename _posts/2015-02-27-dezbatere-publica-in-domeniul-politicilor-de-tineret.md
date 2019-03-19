@@ -14,7 +14,7 @@ categories:
   - Știri
 format: image
 ---
-[<img class="alignleft size-medium wp-image-3437" src="/costestitv/wp-content/uploads//2015/02/IMG_1679-1-300x225.jpg" alt="IMG_1679 (1)" width="300" height="225" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/IMG_1679-1-300x225.jpg 300w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/IMG_1679-1.jpg 1024w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/IMG_1679-1-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2015/02/IMG_1679-1.jpg)În scopul consultării tinerilor privind participarea lor la viaţa comunităţii, la 20 februarie 2015, administraţia raionului Ialoveni şi A. O. ,,Centrul ,,Pro-Comunitate” din Chişinău, au organizat o dezbatere publică în domeniul politicilor de tineret cu 20 de tineri, reprezentanţi ai consiliilor locale de tineret: Ialoveni, Bardar, Costeşti, Dănceni, Moleşti, Puhoi, Ruseştii Noi, Suruceni, Văsieni, Nimoreni, Mileştii Mici, Zîmbreni, de asemenea, membrii Fondului pentru Tineri Ialoveni şi ai Centrului de Sănătate Prietenos Tinerilor ,,Avante”, Costeşti; precum şi ai organizaţiilor non-guvernamentale: ,,Eco-Răzeni, ,,Alternativa”, Costeşti, Asociaţia pentru Dezvoltarea Tinerilor Ruseşteni.
+[<img class="alignleft size-medium wp-image-3437" src="/costestitv/wp-content/uploads//2015/02/IMG_1679-1-300x225.jpg" alt="IMG_1679 (1)" width="300" height="225" srcset="/costestitv/wp-content/uploads//2015/02/IMG_1679-1-300x225.jpg 300w, /costestitv/wp-content/uploads//2015/02/IMG_1679-1.jpg 1024w, /costestitv/wp-content/uploads//2015/02/IMG_1679-1-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2015/02/IMG_1679-1.jpg)În scopul consultării tinerilor privind participarea lor la viaţa comunităţii, la 20 februarie 2015, administraţia raionului Ialoveni şi A. O. ,,Centrul ,,Pro-Comunitate” din Chişinău, au organizat o dezbatere publică în domeniul politicilor de tineret cu 20 de tineri, reprezentanţi ai consiliilor locale de tineret: Ialoveni, Bardar, Costeşti, Dănceni, Moleşti, Puhoi, Ruseştii Noi, Suruceni, Văsieni, Nimoreni, Mileştii Mici, Zîmbreni, de asemenea, membrii Fondului pentru Tineri Ialoveni şi ai Centrului de Sănătate Prietenos Tinerilor ,,Avante”, Costeşti; precum şi ai organizaţiilor non-guvernamentale: ,,Eco-Răzeni, ,,Alternativa”, Costeşti, Asociaţia pentru Dezvoltarea Tinerilor Ruseşteni.
 
 În deschiderea evenimentului, domnul Mihai BRAGA, vicepreşedintele raionului Ialoveni a subliniat că, acţiunile ,,cafeneaua ONG-urilor” şi ,,dezbaterile cu tinerii” sunt instrumente eficiente de consultare a tinerilor pentru a îmbunătăţi activitatea administraţiei raionului în domeniul tineretului. De asemenea, domnul Vitalie POSTU, preşedintele Centrului ,,Pro-Comunitate” a menţionat că, în cadrul proiectului ,,Fortificarea lucrului de tineret”, sînt instruiţi lucrătorii de tineret din ţară şi învăţînd din bunele practici europene realizăm un studiu comparativ între politicile de tineret din Republica Moldova, Estonia şi Croaţia.
 
@@ -106,14 +106,14 @@ _„Acest proiect este posibil datorită  ajutorului generos al poporului ameri
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/opinii/dezbatere-publica-in-domeniul-politicilor-de-tineret/attachment/img_1669/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/IMG_1669-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/opinii/dezbatere-publica-in-domeniul-politicilor-de-tineret/attachment/img_1669/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/IMG_1669-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/opinii/dezbatere-publica-in-domeniul-politicilor-de-tineret/attachment/img_1673/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/IMG_1673-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/opinii/dezbatere-publica-in-domeniul-politicilor-de-tineret/attachment/img_1673/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/IMG_1673-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/opinii/dezbatere-publica-in-domeniul-politicilor-de-tineret/attachment/img_1680-6/'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/02/IMG_1680-6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/opinii/dezbatere-publica-in-domeniul-politicilor-de-tineret/attachment/img_1680-6/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/IMG_1680-6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

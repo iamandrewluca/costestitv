@@ -21,42 +21,42 @@ Sponsorul acestui proiect este Elda Hiller,  care de 6 ani, în fiecare primava
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrini3.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrini3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrini3.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrini4.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrini4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrini4.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrinii.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrinii-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrinii.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrinii-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrinii5.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrinii5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrinii5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrinii5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrinii6.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/batrinii6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrinii6.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrinii6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/clubul-femeilor.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/clubul-femeilor-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/clubul-femeilor.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/clubul-femeilor-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/elda-hiller.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/elda-hiller-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/elda-hiller.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/elda-hiller-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/pachete-alimentare.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/pachete-alimentare-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/pachete-alimentare.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/pachete-alimentare-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/pachete-ptr-batrini.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/pachete-ptr-batrini-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/pachete-ptr-batrini.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/pachete-ptr-batrini-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/sala-mare.jpg'><img width="150" height="150" src="http://costestitv.ddev.local/costestitv/wp-content/uploads//2014/10/sala-mare-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/sala-mare.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/sala-mare-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

@@ -28,9 +28,9 @@ Pentru mai multe informații nu ezitați să ne contactați la 069512370 sau 069
 </p>
 
 <p style="text-align: center;">
-  <em><a href="/costestitv/wp-content/uploads//2015/05/EYF_LOGO.png"><img class="  wp-image-3575 alignright" src="/costestitv/wp-content/uploads//2015/05/EYF_LOGO-300x286.png" alt="EYF_LOGO" width="99" height="94" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/05/EYF_LOGO-300x286.png 300w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/05/EYF_LOGO.png 374w" sizes="(max-width: 99px) 100vw, 99px" /></a></em>
+  <em><a href="/costestitv/wp-content/uploads//2015/05/EYF_LOGO.png"><img class="  wp-image-3575 alignright" src="/costestitv/wp-content/uploads//2015/05/EYF_LOGO-300x286.png" alt="EYF_LOGO" width="99" height="94" srcset="/costestitv/wp-content/uploads//2015/05/EYF_LOGO-300x286.png 300w, /costestitv/wp-content/uploads//2015/05/EYF_LOGO.png 374w" sizes="(max-width: 99px) 100vw, 99px" /></a></em>
 </p>
 
 <p style="text-align: left;">
-  <a href="/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri.png"><img class="alignleft  wp-image-3574" src="/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri-300x240.png" alt="COE-Logo-Quadri" width="146" height="117" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri-300x240.png 300w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri-45x35.png 45w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri.png 354w" sizes="(max-width: 146px) 100vw, 146px" /></a>
+  <a href="/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri.png"><img class="alignleft  wp-image-3574" src="/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri-300x240.png" alt="COE-Logo-Quadri" width="146" height="117" srcset="/costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri-300x240.png 300w, /costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri-45x35.png 45w, /costestitv/wp-content/uploads//2015/05/COE-Logo-Quadri.png 354w" sizes="(max-width: 146px) 100vw, 146px" /></a>
 </p>

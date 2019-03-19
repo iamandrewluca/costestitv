@@ -10,7 +10,7 @@ image: /costestitv/wp-content/uploads//2010/11/image3621.jpg
 categories:
   - Opinii
 ---
-<a href="http://costestean.wordpress.com/2010/11/27/sunt-mindru-de-voi-ribiata/image361/" rel="attachment wp-att-651"><img class="aligncenter size-full wp-image-651" title="Poftim" src="http://costestean.files.wordpress.com/2010/11/image361.jpg" alt="" width="480" height="640" srcset="http://costestitv.ddev.local/costestitv/wp-content/uploads//2010/11/image361.jpg 480w, http://costestitv.ddev.local/costestitv/wp-content/uploads//2010/11/image361-225x300.jpg 225w" sizes="(max-width: 480px) 100vw, 480px" /></a>
+<a href="http://costestean.wordpress.com/2010/11/27/sunt-mindru-de-voi-ribiata/image361/" rel="attachment wp-att-651"><img class="aligncenter size-full wp-image-651" title="Poftim" src="http://costestean.files.wordpress.com/2010/11/image361.jpg" alt="" width="480" height="640" srcset="/costestitv/wp-content/uploads//2010/11/image361.jpg 480w, /costestitv/wp-content/uploads//2010/11/image361-225x300.jpg 225w" sizes="(max-width: 480px) 100vw, 480px" /></a>
 
 Şi :
 
