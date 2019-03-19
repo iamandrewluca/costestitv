@@ -18,7 +18,7 @@ name: Costestitv.info
 description: Un sat informat este un sat dezvoltat
 email: thendrluca@gmail.com
 baseurl: "/costestitv" # the subpath of your site, e.g. /blog
-url: "https://iamandrewluca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iamandrewluca.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamandrewluca
 github_username: iamandrewluca
 
