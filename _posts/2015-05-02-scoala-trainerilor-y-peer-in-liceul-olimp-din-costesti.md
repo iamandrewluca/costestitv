@@ -21,14 +21,14 @@ Astfel, joi, 30 aprilie, elevii Liceului Teoretic „Olimp” din satul Costeșt
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/scoala-trainerilor-y-peer-in-liceul-olimp-din-costesti/attachment/2-5/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/05/21-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/scoala-trainerilor-y-peer-in-liceul-olimp-din-costesti/attachment/2-5/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/05/21.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/scoala-trainerilor-y-peer-in-liceul-olimp-din-costesti/attachment/3-4/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/05/3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/scoala-trainerilor-y-peer-in-liceul-olimp-din-costesti/attachment/3-4/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/05/3.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/scoala-trainerilor-y-peer-in-liceul-olimp-din-costesti/attachment/priim/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/05/priim-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/scoala-trainerilor-y-peer-in-liceul-olimp-din-costesti/attachment/priim/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/05/priim.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

@@ -20,98 +20,98 @@ Deși unii trecători erau reticenți la această activitate și nu doreau să s
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/onumentl-curat.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/onumentl-curat-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/onumentl-curat.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/onumentl-curat.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/baietii.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/baietii-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/baietii.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/baietii.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/colectare.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/colectare.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/colectare2.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/colectare2.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare2.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/colectare3.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/colectare3.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare3.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='/costestitv/wp-content/uploads//2014/10/colectare5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/colectare5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/colectare5.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/curat.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curat-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/curat.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curat.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/curat3.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curat3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/curat3.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curat3.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/curat5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curat5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/curat5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curat5.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/curatwni.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curatwni-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/curatwni.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curatwni.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/curay.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curay-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/curay.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/curay.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/frumos.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/frumos-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/frumos.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/frumos.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/grup-in-actiune.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/grup-in-actiune-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/grup-in-actiune.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/grup-in-actiune.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/grupul.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/grupul-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/grupul.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/grupul.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/gunoi.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/gunoi-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/gunoi.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/gunoi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/gunoihh.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/gunoihh-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/gunoihh.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/gunoihh.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/mirdar.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/mirdar-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/mirdar.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/mirdar.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/monum.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/monum-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/monum.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/monum.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/muncim.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/muncim.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/muncim2.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/muncim2.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim2.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/muncim4.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/muncim4.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim4.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/muncim5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/muncim5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/muncim5.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/poza-de-grup1.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/poza-de-grup1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/poza-de-grup1.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/poza-de-grup1.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/voluntariat.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/voluntariat-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/voluntariat.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/voluntariat.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

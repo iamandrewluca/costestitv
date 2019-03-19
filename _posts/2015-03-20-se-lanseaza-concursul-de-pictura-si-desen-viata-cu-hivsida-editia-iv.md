@@ -13,7 +13,7 @@ categories:
   - Știri
 format: image
 ---
-[<img class="alignleft size-medium wp-image-3491" src="/costestitv/wp-content/uploads//2015/03/paintings-225x300.jpg" alt="paintings" width="225" height="300" srcset="/costestitv/wp-content/uploads//2015/03/paintings-225x300.jpg 225w, /costestitv/wp-content/uploads//2015/03/paintings.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/costestitv/wp-content/uploads//2015/03/paintings.jpg)Asociaţia Obştească ,,Alternativa” şi Consiliul Raional Ialoveni lansează concursul naţional de pictură şi desen  “Viaţa cu HIV/SIDA!”, ediţia a IV-a, 2015.
+[<img class="alignleft size-medium wp-image-3491" src="/costestitv/wp-content/uploads//2015/03/paintings.jpg" alt="paintings" width="225" height="300" srcset="/costestitv/wp-content/uploads//2015/03/paintings.jpg 225w, /costestitv/wp-content/uploads//2015/03/paintings.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/costestitv/wp-content/uploads//2015/03/paintings.jpg)Asociaţia Obştească ,,Alternativa” şi Consiliul Raional Ialoveni lansează concursul naţional de pictură şi desen  “Viaţa cu HIV/SIDA!”, ediţia a IV-a, 2015.
 
 **         ** Concursul  are drept scop sensibilizarea comunităţii privind atitudinea asupra persoanelor care trăiesc cu virusul HIV, combaterea şi prevenirea acestuia şi promovarea toleranţei faţă de victimile HIV/SIDA.
 

@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2258
 permalink: /stiri/un-avion-cu-10-persoane-la-bord-s-a-prabusit-in-columbia/
-image: /costestitv/wp-content/uploads//2014/09/avion-600x337.jpg
+image: /costestitv/wp-content/uploads//2014/09/avion.jpg
 categories:
   - Externe
   - Știri

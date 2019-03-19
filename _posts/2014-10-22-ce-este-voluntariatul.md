@@ -20,38 +20,38 @@ La final 5 tineri au întrebat despre modalitatea în care ar putea deveni volun
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/materiale/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/materiale-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/materiale/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/materiale.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/ora-informativa-2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/ora-informativa1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/ora-informativa-2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/ora-informativa1.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/p1270895/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270895-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/p1270895/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270895.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/p1270910/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270910-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/p1270910/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270910.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/p1270921/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270921-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/p1270921/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270921.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/seminar/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/seminar-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/seminar/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/seminar.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/tineri-2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/tineri1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/tineri-2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/tineri1.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/tinerii/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/tinerii-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/tinerii/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/tinerii.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/voluntari/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/voluntari-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/ce-este-voluntariatul/attachment/voluntari/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/voluntari.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

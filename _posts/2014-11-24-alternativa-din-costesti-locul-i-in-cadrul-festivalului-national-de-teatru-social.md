@@ -32,22 +32,22 @@ Cronos, Cimişlia şi Социальный Театр &#8222;Мастерска�
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/10639553_761640640557007_4626851964566034823_n/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/10639553_761640640557007_4626851964566034823_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/10639553_761640640557007_4626851964566034823_n/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/10639553_761640640557007_4626851964566034823_n.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/al1/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/al1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/al1/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/al1.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/al2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/al2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/al2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/al2.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/alternaiva1/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/alternaiva1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/alternaiva1/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/alternaiva1.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/echipa-noastra/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/echipa-noastra-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-din-costesti-locul-i-in-cadrul-festivalului-national-de-teatru-social/attachment/echipa-noastra/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/11/echipa-noastra.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

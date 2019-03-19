@@ -20,22 +20,22 @@ Consilierii au plasat postere pe panourile de informare din satul Costești, car
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/3.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/3.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/3.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/4.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/4.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/4.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/5.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/5.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/6.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/6.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/6.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/7.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/7.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/7.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

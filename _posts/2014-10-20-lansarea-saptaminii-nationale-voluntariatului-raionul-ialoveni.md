@@ -25,46 +25,46 @@ Săptămîna Națională a Voluntariatului în raionul Ialoveni continuă cu sem
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/ajutor_batrini.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/ajutor_batrini-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/ajutor_batrini.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/ajutor_batrini.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/batrini_20.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini_20-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrini_20.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini_20.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/batrini_201.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini_201-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrini_201.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini_201.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/batrini_203.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini_203-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/batrini_203.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/batrini_203.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/cea-mai-in-virsta-femeie.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/cea-mai-in-virsta-femeie-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/cea-mai-in-virsta-femeie.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/cea-mai-in-virsta-femeie.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/mos-cozma.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/mos-cozma-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/mos-cozma.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/mos-cozma.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/P1270645.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270645-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/P1270645.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270645.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/P1270653.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270653-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/P1270653.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270653.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/P1270690.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270690-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/P1270690.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270690.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/P1270717.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270717-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/P1270717.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/P1270717.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/wp-content/uploads//2014/10/voluntarii.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/voluntarii-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/wp-content/uploads//2014/10/voluntarii.jpg'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/10/voluntarii.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

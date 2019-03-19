@@ -20,7 +20,7 @@ La 75 de ani de la izbucnirea celui de al Doilea Război Mondial, autorii grafic
 </p>
 
 <p style="color: #000000;">
-  <a href="/costestitv/wp-content/uploads//2014/09/putinhitler.png"><img class="alignnone  wp-image-2202" src="/costestitv/wp-content/uploads//2014/09/putinhitler-300x234.png" alt="putinhitler" width="623" height="486" srcset="/costestitv/wp-content/uploads//2014/09/putinhitler-300x234.png 300w, /costestitv/wp-content/uploads//2014/09/putinhitler.png 1024w" sizes="(max-width: 623px) 100vw, 623px" /></a>
+  <a href="/costestitv/wp-content/uploads//2014/09/putinhitler.png"><img class="alignnone  wp-image-2202" src="/costestitv/wp-content/uploads//2014/09/putinhitler.png" alt="putinhitler" width="623" height="486" srcset="/costestitv/wp-content/uploads//2014/09/putinhitler.png 300w, /costestitv/wp-content/uploads//2014/09/putinhitler.png 1024w" sizes="(max-width: 623px) 100vw, 623px" /></a>
 </p>
 
 <p style="color: #000000;">

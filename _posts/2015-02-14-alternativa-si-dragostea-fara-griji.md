@@ -12,7 +12,7 @@ categories:
   - Social
   - Știri
 ---
-[<img class="alignleft size-medium wp-image-3375" src="/costestitv/wp-content/uploads//2015/02/2-300x225.jpg" alt="2" width="300" height="225" srcset="/costestitv/wp-content/uploads//2015/02/2-300x225.jpg 300w, /costestitv/wp-content/uploads//2015/02/2.jpg 1024w, /costestitv/wp-content/uploads//2015/02/2-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2015/02/2.jpg)Cu ocazia Zilei Internaționale a Îndrăgostiților, vineri, 13 februarie, Asociația Obștească din satul Costești, raionul Ialoveni a pregătit un program educativ pentru elevii din Gimnaziul ”Fundul Galbenii” din raionul Hîncești, pe tema sănătății sexual-reproductive.
+[<img class="alignleft size-medium wp-image-3375" src="/costestitv/wp-content/uploads//2015/02/2.jpg" alt="2" width="300" height="225" srcset="/costestitv/wp-content/uploads//2015/02/2.jpg 300w, /costestitv/wp-content/uploads//2015/02/2.jpg 1024w, /costestitv/wp-content/uploads//2015/02/2.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2015/02/2.jpg)Cu ocazia Zilei Internaționale a Îndrăgostiților, vineri, 13 februarie, Asociația Obștească din satul Costești, raionul Ialoveni a pregătit un program educativ pentru elevii din Gimnaziul ”Fundul Galbenii” din raionul Hîncești, pe tema sănătății sexual-reproductive.
 
 Astfel, voluntarii organizației, care sînt și membri ai Rețelei Naționale de Tineri Y-Peer Moldova,  împreună cu Moașa Centrului de Sănătate Prietenos Tinerilor Avante au realizat o oră informativă despre  schimbările pubertare în adolescență, regulile de igienă intimă atît la băieți cît și la fete, infecțiile cu transmitere sexuală, inclusiv HIV/SIDA și simptomele acestora și deasemenea pașii concreți în caz de depistare a unor simptome. La finalul orei, tinerii au dat întrebări anonime specialistului de la CSPT Avante, care a dat răspuns la nedumeririle tinerilor privind această temă.
 
@@ -24,14 +24,14 @@ Tinerii și profesorii din Gimnaziul ”Fundul Galbenii” au fost foarte recept
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-si-dragostea-fara-griji/attachment/12/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/12-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-si-dragostea-fara-griji/attachment/12/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/12.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-si-dragostea-fara-griji/attachment/21/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/21-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-si-dragostea-fara-griji/attachment/21/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/21.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-si-dragostea-fara-griji/attachment/22/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/22-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-si-dragostea-fara-griji/attachment/22/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2015/02/22.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

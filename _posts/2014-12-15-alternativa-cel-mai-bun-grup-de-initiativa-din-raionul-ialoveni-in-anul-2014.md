@@ -11,7 +11,7 @@ categories:
   - Cultură
   - Știri
 ---
-[<img class="alignleft size-medium wp-image-3241" src="/costestitv/wp-content/uploads//2014/12/echipa-premiata-300x225.jpg" alt="echipa premiata" width="300" height="225" srcset="/costestitv/wp-content/uploads//2014/12/echipa-premiata-300x225.jpg 300w, /costestitv/wp-content/uploads//2014/12/echipa-premiata-45x35.jpg 45w, /costestitv/wp-content/uploads//2014/12/echipa-premiata.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2014/12/echipa-premiata.jpg)Duminică, 14 decembrie,în incinta Casei de Cultură Ialoveni, a avut loc Festivalul Tinerilor Activi, 2014.
+[<img class="alignleft size-medium wp-image-3241" src="/costestitv/wp-content/uploads//2014/12/echipa-premiata.jpg" alt="echipa premiata" width="300" height="225" srcset="/costestitv/wp-content/uploads//2014/12/echipa-premiata.jpg 300w, /costestitv/wp-content/uploads//2014/12/echipa-premiata.jpg 45w, /costestitv/wp-content/uploads//2014/12/echipa-premiata.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2014/12/echipa-premiata.jpg)Duminică, 14 decembrie,în incinta Casei de Cultură Ialoveni, a avut loc Festivalul Tinerilor Activi, 2014.
 
 În cadrul evenimentulul-concurs au participat cei mai activi tineri din raionul Ialoveni, la diferite categorii, precum: Cel mai activ tinăr voluntar al anului, Cel mai activ Consiliu de Tineret, Cel mai bun jurnalist, etc.
 
@@ -25,26 +25,26 @@ Amintim ca grupul de teatru social Alternativa, s-a creat în martie, 2014, și 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/echipa-3/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/echipa-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/echipa-3/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/echipa.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/echipa2-2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/echipa2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/echipa2-2/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/echipa2.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/liliana-ionas/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/liliana-ionas-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/liliana-ionas/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/liliana-ionas.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/p1300023/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/P1300023-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/p1300023/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/P1300023.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/rotari-cristina/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/rotari-cristina-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/rotari-cristina/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/rotari-cristina.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/sergiu-velenciuc/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/Sergiu-Velenciuc-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/costestitv/stiri/alternativa-cel-mai-bun-grup-de-initiativa-din-raionul-ialoveni-in-anul-2014/attachment/sergiu-velenciuc/'><img width="150" height="150" src="/costestitv/wp-content/uploads//2014/12/Sergiu-Velenciuc.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

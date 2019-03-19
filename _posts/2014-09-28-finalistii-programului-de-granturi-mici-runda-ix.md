@@ -6,7 +6,7 @@ author: Mircea
 layout: post
 guid: http://costestitv.info/?p=2443
 permalink: /stiri/finalistii-programului-de-granturi-mici-runda-ix/
-image: /costestitv/wp-content/uploads//2014/09/interviuri_9-300x184.jpg
+image: /costestitv/wp-content/uploads//2014/09/interviuri_9.jpg
 categories:
   - Social
   - Știri

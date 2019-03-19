@@ -12,7 +12,7 @@ categories:
   - Învățăminte
   - Social
 ---
-[<img class="alignleft size-full wp-image-3173" src="/costestitv/wp-content/uploads//2014/11/maria-bivols-speach.jpg" alt="maria-bivols-speach" width="300" height="227" srcset="/costestitv/wp-content/uploads//2014/11/maria-bivols-speach.jpg 300w, /costestitv/wp-content/uploads//2014/11/maria-bivols-speach-45x35.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2014/11/maria-bivols-speach.jpg)Festivalul Raional al Tinerilor Activi, Ediţia V, este un eveniment de promovare a tinerilor activi, încadraţi în activităţi de voluntariat, organizat de către administraţia raionului Ialoveni în parteneriat cu Fondul pentru Tineri Ialoveni, fiind cuprins în Programul de acţiuni în domeniul tineretului pentru anul 2014.
+[<img class="alignleft size-full wp-image-3173" src="/costestitv/wp-content/uploads//2014/11/maria-bivols-speach.jpg" alt="maria-bivols-speach" width="300" height="227" srcset="/costestitv/wp-content/uploads//2014/11/maria-bivols-speach.jpg 300w, /costestitv/wp-content/uploads//2014/11/maria-bivols-speach.jpg 45w" sizes="(max-width: 300px) 100vw, 300px" />](/costestitv/wp-content/uploads//2014/11/maria-bivols-speach.jpg)Festivalul Raional al Tinerilor Activi, Ediţia V, este un eveniment de promovare a tinerilor activi, încadraţi în activităţi de voluntariat, organizat de către administraţia raionului Ialoveni în parteneriat cu Fondul pentru Tineri Ialoveni, fiind cuprins în Programul de acţiuni în domeniul tineretului pentru anul 2014.
 
 Evenimentul va avea loc duminică, 14 decembrie 2014, orele 14:00
 
